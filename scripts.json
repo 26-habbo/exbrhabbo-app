@@ -1,0 +1,92 @@
+{
+  "version": 2,
+  "categories": [
+    {
+      "id": "treinamentos",
+      "label": "Treinamentos",
+      "icon": "🎓",
+      "subcategories": [
+        {
+          "id": "basico_1",
+          "label": "Treinamento Básico I",
+          "items": [
+            { "type": "chapter", "text": "Abertura" },
+            { "type": "phrase",  "text": "Olá! Eu sou o [PATENTE] [USERNAME] e serei o vosso instrutor hoje." },
+            { "type": "phrase",  "text": "Por favor, organizem-se numa fila junto à entrada da sala." },
+            { "type": "note",    "text": "Aguarda que todos estejam em fila antes de continuar." },
+            { "type": "chapter", "text": "Regras" },
+            { "type": "phrase",  "text": "Regra 1: É obrigatório respeito total durante o treino." },
+            { "type": "phrase",  "text": "Regra 2: Sigam as ordens do instrutor sem questionar." },
+            { "type": "phrase",  "text": "Regra 3: Quem sair da fila sem autorização será dispensado." },
+            { "type": "note",    "text": "Pergunta se há dúvidas antes de avançar." },
+            { "type": "chapter", "text": "Exercício" },
+            { "type": "phrase",  "text": "Todos prontos? Digam: Pronto, [PATENTE]!" },
+            { "type": "phrase",  "text": "Exercício 1: Movam-se até à linha vermelha e aguardem." },
+            { "type": "phrase",  "text": "Muito bem! Podem avançar para a próxima posição." },
+            { "type": "phrase",  "text": "Pausa de 2 minutos. Não saiam da sala." },
+            { "type": "chapter", "text": "Encerramento" },
+            { "type": "phrase",  "text": "Treinamento Básico I concluído! Parabéns a todos. — [PATENTE] [USERNAME]" }
+          ]
+        },
+        {
+          "id": "basico_2",
+          "label": "Treinamento Básico II",
+          "items": [
+            { "type": "chapter", "text": "Abertura" },
+            { "type": "phrase",  "text": "Bem-vindos! Sou o [PATENTE] [USERNAME]. Pré-requisito: TB I aprovado." },
+            { "type": "phrase",  "text": "Hoje trabalhamos movimentação tática em grupo." },
+            { "type": "chapter", "text": "Formação de Grupos" },
+            { "type": "note",    "text": "Divide os participantes em 3 grupos iguais antes de continuar." },
+            { "type": "phrase",  "text": "Dividam-se em grupos de 3. Aguardem as minhas instruções." },
+            { "type": "phrase",  "text": "Grupo A: posicionem-se no lado esquerdo da sala." },
+            { "type": "phrase",  "text": "Grupo B: posicionem-se no lado direito da sala." },
+            { "type": "phrase",  "text": "Grupo C: ocupem a posição central e aguardem." },
+            { "type": "chapter", "text": "Exercício" },
+            { "type": "phrase",  "text": "Iniciem o exercício ao meu sinal. Prontos?" },
+            { "type": "phrase",  "text": "Excelente! Registem os resultados no livro de treinos." },
+            { "type": "chapter", "text": "Encerramento" },
+            { "type": "phrase",  "text": "Treinamento Básico II concluído! — [PATENTE] [USERNAME]" }
+          ]
+        },
+        {
+          "id": "complementar_1",
+          "label": "Treinamento Complementar I",
+          "items": [
+            { "type": "chapter", "text": "Abertura" },
+            { "type": "phrase",  "text": "Bem-vindos! O [PATENTE] [USERNAME] conduzirá o Complementar I." },
+            { "type": "phrase",  "text": "Este treino requer aprovação nos Básicos I e II." },
+            { "type": "chapter", "text": "Liderança" },
+            { "type": "phrase",  "text": "Hoje focamo-nos em liderança e comunicação em equipa." },
+            { "type": "phrase",  "text": "Exercício: cada grupo elege um porta-voz agora." },
+            { "type": "note",    "text": "Aguarda 1 minuto para os grupos deliberarem." },
+            { "type": "phrase",  "text": "Os porta-vozes reúnam-se no centro da sala." },
+            { "type": "phrase",  "text": "Reportem as decisões do grupo em voz alta." },
+            { "type": "chapter", "text": "Avaliação" },
+            { "type": "phrase",  "text": "Avaliação individual a começar. Aguardem a sua vez." },
+            { "type": "chapter", "text": "Encerramento" },
+            { "type": "phrase",  "text": "Treinamento Complementar I finalizado. — [PATENTE] [USERNAME]" }
+          ]
+        },
+        {
+          "id": "complementar_2",
+          "label": "Treinamento Complementar II",
+          "items": [
+            { "type": "chapter", "text": "Abertura" },
+            { "type": "phrase",  "text": "Bem-vindos ao TC II. Instrutor: [PATENTE] [USERNAME]." },
+            { "type": "phrase",  "text": "Requisito: aprovação em todos os treinos anteriores." },
+            { "type": "chapter", "text": "Gestão de Conflitos" },
+            { "type": "phrase",  "text": "Hoje o foco é gestão de conflitos e tomada de decisão." },
+            { "type": "phrase",  "text": "Cenário 1: um membro recusa seguir ordens. Como agem?" },
+            { "type": "note",    "text": "Dá 2 minutos para discussão em grupo." },
+            { "type": "phrase",  "text": "Discutam em grupo durante 2 minutos. Já." },
+            { "type": "phrase",  "text": "Apresentem a vossa conclusão ao instrutor." },
+            { "type": "phrase",  "text": "Boa abordagem! Passamos ao cenário seguinte." },
+            { "type": "chapter", "text": "Encerramento" },
+            { "type": "phrase",  "text": "Parabéns — TC II concluído! — [PATENTE] [USERNAME]" },
+            { "type": "phrase",  "text": "Aguardem avaliação final nos próximos dias." }
+          ]
+        }
+      ]
+    }
+  ]
+}
