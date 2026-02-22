@@ -8,82 +8,1290 @@
       "subcategories": [
         {
           "id": "basico_1",
-          "label": "Treinamento Básico I",
+          "label": "Básico I",
           "items": [
-            { "type": "chapter", "text": "Abertura" },
-            { "type": "phrase",  "text": "Olá! Eu sou o [PATENTE] [USERNAME] e serei o vosso instrutor hoje." },
-            { "type": "phrase",  "text": "Por favor, organizem-se numa fila junto à entrada da sala." },
-            { "type": "note",    "text": "Aguarda que todos estejam em fila antes de continuar." },
-            { "type": "chapter", "text": "Regras" },
-            { "type": "phrase",  "text": "Regra 1: É obrigatório respeito total durante o treino." },
-            { "type": "phrase",  "text": "Regra 2: Sigam as ordens do instrutor sem questionar." },
-            { "type": "phrase",  "text": "Regra 3: Quem sair da fila sem autorização será dispensado." },
-            { "type": "note",    "text": "Pergunta se há dúvidas antes de avançar." },
-            { "type": "chapter", "text": "Exercício" },
-            { "type": "phrase",  "text": "Todos prontos? Digam: Pronto, [PATENTE]!" },
-            { "type": "phrase",  "text": "Exercício 1: Movam-se até à linha vermelha e aguardem." },
-            { "type": "phrase",  "text": "Muito bem! Podem avançar para a próxima posição." },
-            { "type": "phrase",  "text": "Pausa de 2 minutos. Não saiam da sala." },
-            { "type": "chapter", "text": "Encerramento" },
-            { "type": "phrase",  "text": "Treinamento Básico I concluído! Parabéns a todos. — [PATENTE] [USERNAME]" }
+            {
+              "type": "chapter",
+              "text": "I - Introdução"
+            },
+            {
+              "type": "phrase",
+              "text": "Seja bem-vindo ao Treinamento Básico I do Exército Brasileiro."
+            },
+            {
+              "type": "phrase",
+              "text": "Sou o [PATENTE] [USERNAME] e estarei conduzindo o treinamento."
+            },
+            {
+              "type": "phrase",
+              "text": "Responda as minhas perguntas com \"Sim/Não, [PATENTE]\"."
+            },
+            {
+              "type": "phrase",
+              "text": "Evite a inatividade durante a explicação."
+            },
+            {
+              "type": "phrase",
+              "text": "O Exército Brasileiro possui dois corpos docentes: os Praças e os Oficiais."
+            },
+            {
+              "type": "phrase",
+              "text": "Os Praças utilizam a camisa VERDE. Dirija-se a eles pela patente."
+            },
+            {
+              "type": "phrase",
+              "text": "Exemplo: \"Sim, Sargento\" ou \"Não, Sargento\"."
+            },
+            {
+              "type": "phrase",
+              "text": "Os Oficiais utilizam a camisa BRANCA. Dirija-se a eles com o termo: \"Senhor(a)\"."
+            },
+            {
+              "type": "phrase",
+              "text": "Dúvidas?"
+            },
+            {
+              "type": "chapter",
+              "text": "II - Pagamentos"
+            },
+            {
+              "type": "phrase",
+              "text": "Após ser aprovado neste treinamento, você se tornará um Soldado do Exército Brasileiro e,"
+            },
+            {
+              "type": "phrase",
+              "text": "consequentemente, terá direito a pagamentos."
+            },
+            {
+              "type": "phrase",
+              "text": "Esses pagamentos ocorrem quatro vezes ao dia, nos horários de 12h, 15h, 18h e 21h."
+            },
+            {
+              "type": "phrase",
+              "text": "Soldados recebem 4 mobis, Soldados Estrela recebem 5 mobis e Cabos recebem 6 mobis."
+            },
+            {
+              "type": "phrase",
+              "text": "Também temos eventos rápidos e internos que valem câmbios no jogo, HC e muito mais."
+            },
+            {
+              "type": "phrase",
+              "text": "Dúvidas?"
+            },
+            {
+              "type": "chapter",
+              "text": "III - Negrito"
+            },
+            {
+              "type": "phrase",
+              "text": "É obrigatório falar em negrito nas dependências do Exército Brasileiro."
+            },
+            {
+              "type": "phrase",
+              "text": "Você sabe falar em negrito?"
+            },
+            {
+              "type": "note",
+              "text": "Se não sabe, ensine-o. Pergunte a forma de acesso — Celular ou computador?"
+            },
+            {
+              "type": "phrase",
+              "text": "Para utilizar o negrito pelo celular ou a versão BETA, digite :gritar! + a frase."
+            },
+            {
+              "type": "phrase",
+              "text": "Para utilizar o negrito pela versão do computador, basta segurar a tecla SHIFT "
+            },
+            {
+              "type": "phrase",
+              "text": "e teclar ENTER após terminar de digitar algo."
+            },
+            {
+              "type": "note",
+              "text": "Peça ao recruta para tentar falar em negrito."
+            },
+            {
+              "type": "phrase",
+              "text": "Caso o negrito falhe, mande um \"*\" em negrito após a falha."
+            },
+            {
+              "type": "note",
+              "text": "Exemplifique."
+            },
+            {
+              "type": "phrase",
+              "text": "Dúvidas?"
+            },
+            {
+              "type": "chapter",
+              "text": "IV - Comandos"
+            },
+            {
+              "type": "chapter",
+              "text": "1. Sentido/Atenção"
+            },
+            {
+              "type": "phrase",
+              "text": "O Sentido/Atenção é o comando utilizado quando um Oficial entra no Quartel,"
+            },
+            {
+              "type": "phrase",
+              "text": "ou quando o solicita na portinha."
+            },
+            {
+              "type": "phrase",
+              "text": "Este comando é acompanhado por um apito, oportunidade na qual você"
+            },
+            {
+              "type": "phrase",
+              "text": "deve se levantar imediatamente e permanecer de pé até o término do comando."
+            },
+            {
+              "type": "phrase",
+              "text": "Caso se levante torto, sente-se e refaça o movimento até ficar reto."
+            },
+            {
+              "type": "phrase",
+              "text": "Em Sentido é proibido falar, sussurrar ou segurar qualquer item nas mãos."
+            },
+            {
+              "type": "phrase",
+              "text": "Para soltar itens pelo celular ou na versão BETA, pressione o seu avatar,"
+            },
+            {
+              "type": "phrase",
+              "text": "selecione o seu nick, clique no seu avatar e na opção \"soltar item\"."
+            },
+            {
+              "type": "phrase",
+              "text": "Já na versão clássica, clique em você, na seta em cima do seu boneco"
+            },
+            {
+              "type": "phrase",
+              "text": "e em \"soltar item\"."
+            },
+            {
+              "type": "phrase",
+              "text": "Dúvidas?"
+            },
+            {
+              "type": "note",
+              "text": "Entregue um item ao Recruta e, caso esteja em sala, realize a simulação do Sentido na porta ao lado dos GP's."
+            },
+            {
+              "type": "chapter",
+              "text": "2. Descansar/À vontade"
+            },
+            {
+              "type": "phrase",
+              "text": "Quando esse comando for dado, você poderá se sentar e retornar ao trabalho."
+            },
+            {
+              "type": "phrase",
+              "text": "Ambos os comandos devem ser executados em até 5 segundos, caso contrário,"
+            },
+            {
+              "type": "phrase",
+              "text": "você poderá ser encaminhado para fora do Quartel, mas conseguirá retornar depois."
+            },
+            {
+              "type": "phrase",
+              "text": "Dúvidas?"
+            },
+            {
+              "type": "chapter",
+              "text": "V - Quartel-General (QG)"
+            },
+            {
+              "type": "chapter",
+              "text": "1. Guarda-Portão (GP)"
+            },
+            {
+              "type": "phrase",
+              "text": "Os GP's são as cinco \"Cadeiras Majestosas\" localizadas na parte da frente do Quartel,"
+            },
+            {
+              "type": "phrase",
+              "text": "responsáveis por realizar o alistamento e o recrutamento de civis."
+            },
+            {
+              "type": "phrase",
+              "text": "Você também pode convidar os civis no hall a se alistarem."
+            },
+            {
+              "type": "phrase",
+              "text": "Por exemplo: \"fulano, deseja se alistar?\""
+            },
+            {
+              "type": "phrase",
+              "text": "Caso o civil deseje se alistar, utilize o comando \":liberar\"."
+            },
+            {
+              "type": "phrase",
+              "text": "Se o civil estiver atrapalhando, avise um Oficial ou use o comando \":ausente\"."
+            },
+            {
+              "type": "phrase",
+              "text": "É obrigatório assumir as maiores patentes em GP."
+            },
+            {
+              "type": "phrase",
+              "text": "Para assumir alguém no GP, posicione-se a um quadrado de distância da cadeira e diga:"
+            },
+            {
+              "type": "phrase",
+              "text": "\"Assumo [Patente]\" para Praças ou \"Assumo, Senhor(a)\" para Oficiais."
+            },
+            {
+              "type": "phrase",
+              "text": "Dúvidas?"
+            },
+            {
+              "type": "chapter",
+              "text": "2. Preencha a Retaguarda (PAR)"
+            },
+            {
+              "type": "phrase",
+              "text": "O PAR corresponde aos sofás vermelhos localizados atrás dos GP's."
+            },
+            {
+              "type": "phrase",
+              "text": "Você deve se sentar ali quando todos os GP's estiverem ocupados esperando uma função."
+            },
+            {
+              "type": "phrase",
+              "text": "Dúvidas?"
+            },
+            {
+              "type": "chapter",
+              "text": "3. Posto de Ausência (PDA)"
+            },
+            {
+              "type": "phrase",
+              "text": "Sempre que precisar se ausentar, dirija-se ao H-ummer do exército, que encontra-se"
+            },
+            {
+              "type": "phrase",
+              "text": "do lado direito do Quartel, próximo ao Barril de Cevada."
+            },
+            {
+              "type": "phrase",
+              "text": "Para se sentar, basta usar o mobi \"Ticket BattleBall clássico\" ao lado esquerdo do H-ummer."
+            },
+            {
+              "type": "phrase",
+              "text": "Não é necessário a permissão de um Oficial para se ausentar ou sair do jogo."
+            },
+            {
+              "type": "phrase",
+              "text": "Dúvidas?"
+            },
+            {
+              "type": "chapter",
+              "text": "4. Funcionamento do Quartel General"
+            },
+            {
+              "type": "phrase",
+              "text": "O Quartel-General funciona das 10h às 23h em dias de semana"
+            },
+            {
+              "type": "phrase",
+              "text": "e das 11h às 23h em finais de semana e feriados."
+            },
+            {
+              "type": "chapter",
+              "text": "VI - Regras do Exército Brasileiro"
+            },
+            {
+              "type": "phrase",
+              "text": "1. Nunca solicitar pagamentos, promoções ou direitos."
+            },
+            {
+              "type": "phrase",
+              "text": "2. Proibido participar de outros Exércitos ou Polícias enquanto alistado no Exército Brasileiro."
+            },
+            {
+              "type": "phrase",
+              "text": "3. Sempre assuma seus superiores nas funções do Quartel General."
+            },
+            {
+              "type": "phrase",
+              "text": "4. Proibido dançar, assentar no chão ou apresentar placas nas dependências internas do Exército."
+            },
+            {
+              "type": "phrase",
+              "text": "5. É obrigatório manter a visibilidade do perfil aberta e o status de online habilitado dentro do QG."
+            },
+            {
+              "type": "phrase",
+              "text": "6. Não é permitido se ausentar ou conversar no hall enquanto estiver alistado."
+            },
+            {
+              "type": "phrase",
+              "text": "Dúvidas?"
+            },
+            {
+              "type": "chapter",
+              "text": "VII - Finalização"
+            },
+            {
+              "type": "phrase",
+              "text": "Parabéns, você foi aprovado no Treinamento Básico I."
+            },
+            {
+              "type": "phrase",
+              "text": "Para encontrar o Exército Brasileiro novamente, basta procurar por"
+            },
+            {
+              "type": "phrase",
+              "text": "\"Cm-Anonimo\" no navegador e ir até o quarto do Exército Brasileiro com a tag \"FMB\"."
+            },
+            {
+              "type": "phrase",
+              "text": "A sua entrada no Quartel-General será pela portinha preta localizada no"
+            },
+            {
+              "type": "phrase",
+              "text": "hall de entrada ao lado direito, próximo aos portões de permissões."
+            },
+            {
+              "type": "phrase",
+              "text": "Agora, altere sua missão para [Ex.BR] Soldado"
+            },
+            {
+              "type": "phrase",
+              "text": "Se junte ao grupo \"Exército Brasileiro - Amigos\" e favorite o grupo."
+            },
+            {
+              "type": "note",
+              "text": "Caso o Soldado tenha acessórios ou grupos de outras instituições militares, peça para remover."
+            },
+            {
+              "type": "note",
+              "text": "Na sala de treino, caso o Soldado esteja sem o fardamento, use o comando :vestir e mande-o pisar na seta que apareceu no piso do quarto."
+            },
+            {
+              "type": "note",
+              "text": "Perfil privado — Celular: engrenagens (canto inf. dir.) → Configurações > Privacidade → TODOS podem ver. Computador: seta branca (canto sup. dir.) → Configurações → Privacidade → TODO MUNDO pode ver."
+            },
+            {
+              "type": "note",
+              "text": "Perfil privado — Computador: seta branca (canto sup. dir.) → Configurações → Privacidade → TODO MUNDO pode ver."
+            },
+            {
+              "type": "note",
+              "text": "Certifique-se que o Soldado está com fardamento, perfil, missão e grupo corretos antes de finalizar."
+            }
           ]
         },
         {
           "id": "basico_2",
-          "label": "Treinamento Básico II",
+          "label": "Básico II",
           "items": [
-            { "type": "chapter", "text": "Abertura" },
-            { "type": "phrase",  "text": "Bem-vindos! Sou o [PATENTE] [USERNAME]. Pré-requisito: TB I aprovado." },
-            { "type": "phrase",  "text": "Hoje trabalhamos movimentação tática em grupo." },
-            { "type": "chapter", "text": "Formação de Grupos" },
-            { "type": "note",    "text": "Divide os participantes em 3 grupos iguais antes de continuar." },
-            { "type": "phrase",  "text": "Dividam-se em grupos de 3. Aguardem as minhas instruções." },
-            { "type": "phrase",  "text": "Grupo A: posicionem-se no lado esquerdo da sala." },
-            { "type": "phrase",  "text": "Grupo B: posicionem-se no lado direito da sala." },
-            { "type": "phrase",  "text": "Grupo C: ocupem a posição central e aguardem." },
-            { "type": "chapter", "text": "Exercício" },
-            { "type": "phrase",  "text": "Iniciem o exercício ao meu sinal. Prontos?" },
-            { "type": "phrase",  "text": "Excelente! Registem os resultados no livro de treinos." },
-            { "type": "chapter", "text": "Encerramento" },
-            { "type": "phrase",  "text": "Treinamento Básico II concluído! — [PATENTE] [USERNAME]" }
+            {
+              "type": "chapter",
+              "text": "I - Introdução"
+            },
+            {
+              "type": "phrase",
+              "text": "Seja bem-vindo ao Treinamento Básico II."
+            },
+            {
+              "type": "phrase",
+              "text": "Eu sou o [PATENTE] [USERNAME] e estarei conduzindo o treinamento."
+            },
+            {
+              "type": "phrase",
+              "text": "Responda às perguntas com \"Sim/Não, [PATENTE]\"."
+            },
+            {
+              "type": "phrase",
+              "text": "Se aprovado no treino, será promovido a Soldado Estrela."
+            },
+            {
+              "type": "phrase",
+              "text": "Caso seja reprovado, terá a oportunidade de refazer o treino em outro momento."
+            },
+            {
+              "type": "phrase",
+              "text": "O treinamento está dividido em três partes: MQG/ADO, Centro de Instruções e Apresente-se."
+            },
+            {
+              "type": "phrase",
+              "text": "Evite ficar inativo durante o treino."
+            },
+            {
+              "type": "phrase",
+              "text": "Dúvidas?"
+            },
+            {
+              "type": "chapter",
+              "text": "II - MQG (Monitoramento do Quartel General) e ADO (Área de Oficiais)"
+            },
+            {
+              "type": "phrase",
+              "text": "O MQG é o pódio no centro do batalhão."
+            },
+            {
+              "type": "phrase",
+              "text": "Ali, os Oficiais monitoram, supervisionam o Quartel e garantem a sua organização."
+            },
+            {
+              "type": "phrase",
+              "text": "Subir no MQG ocasiona em rebaixamento/demissão."
+            },
+            {
+              "type": "phrase",
+              "text": "A ADO é o local reservado aos Oficiais para quando não houver espaço em GP ou PAR."
+            },
+            {
+              "type": "phrase",
+              "text": "Nunca entre na Área de Oficiais, ou estará sujeito a banimento do Exército Brasileiro."
+            },
+            {
+              "type": "phrase",
+              "text": "Dúvidas?"
+            },
+            {
+              "type": "chapter",
+              "text": "III - Centro de Instruções (CI)"
+            },
+            {
+              "type": "phrase",
+              "text": "O CI são os tapetes brancos e vermelhos à esquerda do Quartel-General."
+            },
+            {
+              "type": "phrase",
+              "text": "Os treinadores utilizam os tapetes brancos e os treinados utilizam os tapetes vermelhos."
+            },
+            {
+              "type": "phrase",
+              "text": "A sua presença no Centro de Instruções pode ser solicitada por um Oficial também,"
+            },
+            {
+              "type": "phrase",
+              "text": "seja para promovê-lo, avaliá-lo em um treino ou convocá-lo para algum Grupo Externo."
+            },
+            {
+              "type": "phrase",
+              "text": "As mesas do lado direito do CI são chamadas de HelpDesk e são utilizadas para ações dos Grupos Externos."
+            },
+            {
+              "type": "phrase",
+              "text": "Você saberá mais futuramente ao ingressar em um deles."
+            },
+            {
+              "type": "phrase",
+              "text": "Dúvidas?"
+            },
+            {
+              "type": "chapter",
+              "text": "IV - Apresente-se"
+            },
+            {
+              "type": "phrase",
+              "text": "O \"apresente-se\" é utilizado em promoções e rebaixamentos de Praças e Oficiais."
+            },
+            {
+              "type": "phrase",
+              "text": "Após o Sentido/Atenção, o Oficial dirá: \"fulano, apresente-se\"."
+            },
+            {
+              "type": "phrase",
+              "text": "1. Ir a frente do Oficial e acenar."
+            },
+            {
+              "type": "phrase",
+              "text": "2. Esperar que o Oficial acene de volta."
+            },
+            {
+              "type": "phrase",
+              "text": "3. Falar: \"Senhor(a), [sua patente] [seu nick] apresentando-se, à espera de suas ordens.\""
+            },
+            {
+              "type": "phrase",
+              "text": "4. Escutar as ordens."
+            },
+            {
+              "type": "phrase",
+              "text": "5. Aguardar que o Oficial acene."
+            },
+            {
+              "type": "phrase",
+              "text": "6. Acenar logo após o Oficial."
+            },
+            {
+              "type": "phrase",
+              "text": "7. Dizer: \"Senhor(a), permissão para dispensa.\""
+            },
+            {
+              "type": "phrase",
+              "text": "8. Aguardar a dispensa e realizar as alterações em PAR."
+            },
+            {
+              "type": "phrase",
+              "text": "Dúvidas até o momento?"
+            },
+            {
+              "type": "phrase",
+              "text": "Regras ao se apresentar:"
+            },
+            {
+              "type": "phrase",
+              "text": "1. Estar sempre em frente ao Oficial."
+            },
+            {
+              "type": "phrase",
+              "text": "2. Realizar as alterações somente após a dispensa e em PAR."
+            },
+            {
+              "type": "phrase",
+              "text": "3. Nunca acenar utilizando o comando \"o/\"."
+            },
+            {
+              "type": "phrase",
+              "text": "Dúvidas sobre como se apresentar?"
+            },
+            {
+              "type": "note",
+              "text": "Realize um teste prático com o(s) treinado(s). Caso esteja com um Auxiliar, realize primeiro a demonstração com ele. Corrija todos os erros."
+            },
+            {
+              "type": "note",
+              "text": "Fique sobre a porta que faz referência à ADO na Sala de Treino do T2, diga \"Sentido\" e continue o teste prático."
+            },
+            {
+              "type": "chapter",
+              "text": "V - Finalização"
+            },
+            {
+              "type": "phrase",
+              "text": "Parabéns, você está aprovado no Treinamento Básico II."
+            },
+            {
+              "type": "phrase",
+              "text": "Agora está apto a ser promovido no Quartel."
+            },
+            {
+              "type": "phrase",
+              "text": "Altere sua missão para [Ex.BR] Soldado Estrela"
+            },
+            {
+              "type": "note",
+              "text": "Confira se o Praça alterou a missão antes de liberá-lo."
+            }
           ]
         },
         {
           "id": "complementar_1",
-          "label": "Treinamento Complementar I",
+          "label": "Complementar I",
           "items": [
-            { "type": "chapter", "text": "Abertura" },
-            { "type": "phrase",  "text": "Bem-vindos! O [PATENTE] [USERNAME] conduzirá o Complementar I." },
-            { "type": "phrase",  "text": "Este treino requer aprovação nos Básicos I e II." },
-            { "type": "chapter", "text": "Liderança" },
-            { "type": "phrase",  "text": "Hoje focamo-nos em liderança e comunicação em equipa." },
-            { "type": "phrase",  "text": "Exercício: cada grupo elege um porta-voz agora." },
-            { "type": "note",    "text": "Aguarda 1 minuto para os grupos deliberarem." },
-            { "type": "phrase",  "text": "Os porta-vozes reúnam-se no centro da sala." },
-            { "type": "phrase",  "text": "Reportem as decisões do grupo em voz alta." },
-            { "type": "chapter", "text": "Avaliação" },
-            { "type": "phrase",  "text": "Avaliação individual a começar. Aguardem a sua vez." },
-            { "type": "chapter", "text": "Encerramento" },
-            { "type": "phrase",  "text": "Treinamento Complementar I finalizado. — [PATENTE] [USERNAME]" }
+            {
+              "type": "chapter",
+              "text": "I - Introdução"
+            },
+            {
+              "type": "phrase",
+              "text": "Seja bem-vindo ao Treinamento Complementar I."
+            },
+            {
+              "type": "phrase",
+              "text": "Eu sou o [PATENTE] [USERNAME] e estarei conduzindo o treinamento."
+            },
+            {
+              "type": "phrase",
+              "text": "Responda às perguntas com \"Sim/Não, [PATENTE]\"."
+            },
+            {
+              "type": "phrase",
+              "text": "Se aprovado no treino, receberá a sigla Tc1."
+            },
+            {
+              "type": "phrase",
+              "text": "Caso seja reprovado, terá a oportunidade de refazer o treino em outro momento."
+            },
+            {
+              "type": "phrase",
+              "text": "O treinamento está dividido em quatro partes:"
+            },
+            {
+              "type": "phrase",
+              "text": "Site, Posto de Verificação (PDV), Team Speak³ (TS) e Recrutamento Externo (RE)."
+            },
+            {
+              "type": "phrase",
+              "text": "Evite ficar inativo durante o treino."
+            },
+            {
+              "type": "phrase",
+              "text": "Dúvidas?"
+            },
+            {
+              "type": "chapter",
+              "text": "II - Site"
+            },
+            {
+              "type": "phrase",
+              "text": "O nosso site contém diversas informações sobre a instituição."
+            },
+            {
+              "type": "phrase",
+              "text": "Nele é possível conhecer mais sobre o Exército e o seu funcionamento."
+            },
+            {
+              "type": "phrase",
+              "text": "Por exemplo, lá é possível consultar a apostila de cabelos, peles e acessórios permitidos no Quartel."
+            },
+            {
+              "type": "phrase",
+              "text": "Mas a sua principal função é a Pesquisa Militar:"
+            },
+            {
+              "type": "phrase",
+              "text": "onde podemos verificar o registro de todos os nossos membros, alistados ou ex-alistados e o seu status."
+            },
+            {
+              "type": "phrase",
+              "text": "Os status existentes são:"
+            },
+            {
+              "type": "phrase",
+              "text": "Ativo: devidamente alistado no Exército. Sem registro: nunca se alistou conosco."
+            },
+            {
+              "type": "phrase",
+              "text": "Já as demissões constam como:"
+            },
+            {
+              "type": "phrase",
+              "text": "Auto-Demissão, Mau Comportamento, Traição ou Sem Volta."
+            },
+            {
+              "type": "phrase",
+              "text": "Nos casos de Traição ou Mau Comportamento, somente os Oficiais podem autorizar que a pessoa se realiste."
+            },
+            {
+              "type": "phrase",
+              "text": "Nos casos de Sem Volta, o realistamento não é permitido."
+            },
+            {
+              "type": "phrase",
+              "text": "Dúvidas?"
+            },
+            {
+              "type": "chapter",
+              "text": "III - Posto de Verificação (PDV)"
+            },
+            {
+              "type": "phrase",
+              "text": "O PDV é responsável por conferir missões, grupos, registros,"
+            },
+            {
+              "type": "phrase",
+              "text": "fardamentos dos Praças e corrigir possíveis irregularidades."
+            },
+            {
+              "type": "phrase",
+              "text": "O PDV está localizado ao lado esquerdo dos Guarda-Portões (GP), próximo as escadas."
+            },
+            {
+              "type": "phrase",
+              "text": "Caso todos os GPs estejam preenchidos e você for a menor patente presente, deverá assumir o PDV."
+            },
+            {
+              "type": "phrase",
+              "text": "Se já houver um superior em PDV, você deve assumi-lo dizendo \"Assumo, [patente]\"."
+            },
+            {
+              "type": "phrase",
+              "text": "Para sair ou se ausentar da função, avise ao Oficial em MQG."
+            },
+            {
+              "type": "phrase",
+              "text": "Os comandos do PDV são:"
+            },
+            {
+              "type": "phrase",
+              "text": ":liberar - se o Praça estiver correto."
+            },
+            {
+              "type": "phrase",
+              "text": ":pular - transfere o Praça para o último lugar da fila."
+            },
+            {
+              "type": "phrase",
+              "text": ":ausente - envia o Praça de volta ao hall."
+            },
+            {
+              "type": "phrase",
+              "text": ":vestir - coloca o fardamento no Praça."
+            },
+            {
+              "type": "phrase",
+              "text": "Antes de liberar alguém, você precisa se certificar de que a missão,"
+            },
+            {
+              "type": "phrase",
+              "text": "status, grupo favoritado e fardamento estão corretos, conforme o site, e o perfil habilitado."
+            },
+            {
+              "type": "phrase",
+              "text": "Em caso de dúvidas relacionadas às cores ou aos acessórios permitidos,"
+            },
+            {
+              "type": "phrase",
+              "text": "verifique a apostila de visuais disponível no site. Caso não encontre a informação,"
+            },
+            {
+              "type": "phrase",
+              "text": "sussurre com o Oficial em MQG."
+            },
+            {
+              "type": "phrase",
+              "text": "Enquanto estiver no PDV, você deverá usar o balão com a cor VERDE."
+            },
+            {
+              "type": "phrase",
+              "text": "Dúvidas?"
+            },
+            {
+              "type": "chapter",
+              "text": "IV - Team Speak 3 (TS³)"
+            },
+            {
+              "type": "phrase",
+              "text": "O Team Speak é a nossa principal ferramenta de comunicação."
+            },
+            {
+              "type": "phrase",
+              "text": "Ela permite que se tenha uma maior eficiência e precisão na comunicação com os demais."
+            },
+            {
+              "type": "phrase",
+              "text": "É fundamental possuir o Team Speak, ele te auxiliará a"
+            },
+            {
+              "type": "phrase",
+              "text": "ter um bom desenvolvimento nas funções que receberá."
+            },
+            {
+              "type": "phrase",
+              "text": "O Team Speak é um aplicativo leve, que possibilita o download em qualquer aparelho,"
+            },
+            {
+              "type": "phrase",
+              "text": "possuindo uma versão para computador e celular."
+            },
+            {
+              "type": "phrase",
+              "text": "Caso tenha interesse em instalar, procure por um Ajudante ou um Oficial."
+            },
+            {
+              "type": "phrase",
+              "text": "Os Ajudantes utilizam uma medalha azul no fardamento."
+            },
+            {
+              "type": "phrase",
+              "text": "Dúvidas?"
+            },
+            {
+              "type": "chapter",
+              "text": "V - Recrutamento Externo (RE)"
+            },
+            {
+              "type": "phrase",
+              "text": "O RE consiste em sair com a sua conta pelo hotel e trazer uma pessoa"
+            },
+            {
+              "type": "phrase",
+              "text": "por vez para que se aliste no Exército Brasileiro."
+            },
+            {
+              "type": "phrase",
+              "text": "É uma atividade diária e realizada em todos os turnos."
+            },
+            {
+              "type": "phrase",
+              "text": "Você deve se passar por um civil comum, conversar com outras pessoas"
+            },
+            {
+              "type": "phrase",
+              "text": "em quartos públicos e convencê-los a efetuar o alistamento."
+            },
+            {
+              "type": "phrase",
+              "text": "Não é permitido passar informações enganosas ou prometer recompensas falsas durante o processo."
+            },
+            {
+              "type": "phrase",
+              "text": "Para a ronda se dar por completa, é necessário conseguir no mínimo 1 alistado."
+            },
+            {
+              "type": "phrase",
+              "text": "Ele é realizado pelo Team Speak, por onde os Oficiais monitoram essa função."
+            },
+            {
+              "type": "phrase",
+              "text": "Realizá-lo é uma ótima contribuição ao Exército."
+            },
+            {
+              "type": "phrase",
+              "text": "Quanto antes, se voluntarie para o seu primeiro RE."
+            },
+            {
+              "type": "phrase",
+              "text": "Dúvidas?"
+            },
+            {
+              "type": "chapter",
+              "text": "VI - Teste Prático"
+            },
+            {
+              "type": "phrase",
+              "text": "Agora, realizaremos um teste prático no site."
+            },
+            {
+              "type": "phrase",
+              "text": "Acesse: exbrhabbo.com e me informe quando estiver com o site aberto."
+            },
+            {
+              "type": "phrase",
+              "text": "Agora, procure a seção de Pesquisa Militar para realizarmos um teste."
+            },
+            {
+              "type": "phrase",
+              "text": "Neste teste, será feita a busca de informações a um indivíduo"
+            },
+            {
+              "type": "phrase",
+              "text": "vinculado de alguma forma ao Exército Brasileiro."
+            },
+            {
+              "type": "phrase",
+              "text": "Agora, no campo de pesquisa, digite o meu nickname."
+            },
+            {
+              "type": "phrase",
+              "text": "Logo abaixo, aparecerá as seguintes informações:"
+            },
+            {
+              "type": "phrase",
+              "text": "data de promoção, status, quem realizou a sua última promoção e afins."
+            },
+            {
+              "type": "phrase",
+              "text": "Quero que me diga a data da minha última promoção e quem a realizou."
+            },
+            {
+              "type": "note",
+              "text": "Aguarde o Cabo falar as informações da pesquisa militar."
+            },
+            {
+              "type": "phrase",
+              "text": "Dúvidas?"
+            },
+            {
+              "type": "note",
+              "text": "Caso esteja treinando em C.I, pule para o próximo tópico a partir desta parte."
+            },
+            {
+              "type": "phrase",
+              "text": "Por fim, realizaremos um teste prático dos comandos no PDV."
+            },
+            {
+              "type": "note",
+              "text": "Caso esteja com um Aluno da EsSA, simule com ele os comandos e, em seguida, chame o(s) treinado(s) para o teste prático."
+            },
+            {
+              "type": "note",
+              "text": "Para realizar o teste prático, abra a porta em frente ao tapete vermelho usando o comando :pdv."
+            },
+            {
+              "type": "note",
+              "text": "Pise na porta para que seja teleportado para os roller's e, em seguida, realize o teste prático com todos os comandos do PDV."
+            },
+            {
+              "type": "phrase",
+              "text": "De início, você irá usar o comando :ausente para que eu seja retirado dos roller's, sendo enviado para o Hall."
+            },
+            {
+              "type": "note",
+              "text": "Aguarde o treinado usar o comando. Após ele ter usado, volte para os roller's e prossiga com o teste."
+            },
+            {
+              "type": "phrase",
+              "text": "Agora, use o comando :pular para que eu seja teleportado para o fim da fila em casos de demora,"
+            },
+            {
+              "type": "phrase",
+              "text": "para realizar alguma alteração, tendo Praças esperando na fila."
+            },
+            {
+              "type": "note",
+              "text": "Aguarde o treinado usar o comando para prosseguir."
+            },
+            {
+              "type": "phrase",
+              "text": "Agora, use o comando :vestir para que o fardamento seja colocado automaticamente em mim."
+            },
+            {
+              "type": "note",
+              "text": "Coloque uma roupa qualquer para simular o fardamento sendo colocado automaticamente. Aguarde o treinado usar o comando."
+            },
+            {
+              "type": "phrase",
+              "text": "Por fim, use o comando :liberar para que a porta se abra, possibilitando minha entrada ao QG."
+            },
+            {
+              "type": "note",
+              "text": "Aguarde o treinado usar o comando para prosseguir."
+            },
+            {
+              "type": "phrase",
+              "text": "Dúvidas?"
+            },
+            {
+              "type": "chapter",
+              "text": "VII - Finalização"
+            },
+            {
+              "type": "phrase",
+              "text": "Parabéns, você está aprovado no Treinamento Complementar I."
+            },
+            {
+              "type": "phrase",
+              "text": "Agora está apto a assumir o PDV e realizar Recrutamentos Externos."
+            },
+            {
+              "type": "phrase",
+              "text": "Adicione a sigla <Tc1"
+            },
+            {
+              "type": "phrase",
+              "text": "> em sua missão."
+            },
+            {
+              "type": "note",
+              "text": "Confira se o Praça adicionou a sigla antes de liberá-lo."
+            }
           ]
         },
         {
           "id": "complementar_2",
-          "label": "Treinamento Complementar II",
+          "label": "Complementar II",
           "items": [
-            { "type": "chapter", "text": "Abertura" },
-            { "type": "phrase",  "text": "Bem-vindos ao TC II. Instrutor: [PATENTE] [USERNAME]." },
-            { "type": "phrase",  "text": "Requisito: aprovação em todos os treinos anteriores." },
-            { "type": "chapter", "text": "Gestão de Conflitos" },
-            { "type": "phrase",  "text": "Hoje o foco é gestão de conflitos e tomada de decisão." },
-            { "type": "phrase",  "text": "Cenário 1: um membro recusa seguir ordens. Como agem?" },
-            { "type": "note",    "text": "Dá 2 minutos para discussão em grupo." },
-            { "type": "phrase",  "text": "Discutam em grupo durante 2 minutos. Já." },
-            { "type": "phrase",  "text": "Apresentem a vossa conclusão ao instrutor." },
-            { "type": "phrase",  "text": "Boa abordagem! Passamos ao cenário seguinte." },
-            { "type": "chapter", "text": "Encerramento" },
-            { "type": "phrase",  "text": "Parabéns — TC II concluído! — [PATENTE] [USERNAME]" },
-            { "type": "phrase",  "text": "Aguardem avaliação final nos próximos dias." }
+            {
+              "type": "chapter",
+              "text": "I - Introdução"
+            },
+            {
+              "type": "phrase",
+              "text": "Seja bem-vindo ao Treinamento Complementar II."
+            },
+            {
+              "type": "phrase",
+              "text": "Sou o [PATENTE] [USERNAME] e estarei conduzindo o treinamento."
+            },
+            {
+              "type": "phrase",
+              "text": "Responda às perguntas com \"Sim/Não, [PATENTE]\"."
+            },
+            {
+              "type": "phrase",
+              "text": "Se aprovado no treino, receberá a sigla Tc2 e poderá auxiliar treinamentos."
+            },
+            {
+              "type": "phrase",
+              "text": "Caso seja reprovado, terá a oportunidade de refazer o treino em outro momento."
+            },
+            {
+              "type": "phrase",
+              "text": "O treinamento está dividido em três partes:"
+            },
+            {
+              "type": "phrase",
+              "text": "Área de Recrutas (ADR), Painel de Praças e relatório."
+            },
+            {
+              "type": "phrase",
+              "text": "Evite ficar inativo durante o treino."
+            },
+            {
+              "type": "phrase",
+              "text": "Dúvidas?"
+            },
+            {
+              "type": "chapter",
+              "text": "II - Área de Recrutas (ADR)"
+            },
+            {
+              "type": "phrase",
+              "text": "A ADR é o local onde os recrutas aguardam o treinamento, situada abaixo das escadas."
+            },
+            {
+              "type": "phrase",
+              "text": "Após a liberação do recruta pelo GP, dirija-se à ADR"
+            },
+            {
+              "type": "phrase",
+              "text": "para manifestar seu interesse em auxiliar o treinamento."
+            },
+            {
+              "type": "phrase",
+              "text": "Um Oficial abrirá a porta para que você e o treinador possam adentrá-la."
+            },
+            {
+              "type": "phrase",
+              "text": "Enquanto você e o recruta aguardam, você pode conversar com o recruta."
+            },
+            {
+              "type": "phrase",
+              "text": "para evitar que ele desista do treinamento e deixe o Quartel."
+            },
+            {
+              "type": "phrase",
+              "text": "Quando o treinamento for enviado, auxilie o treinador a conduzir"
+            },
+            {
+              "type": "phrase",
+              "text": "o recruta pelo teleporte até a sala correspondente."
+            },
+            {
+              "type": "phrase",
+              "text": "Dúvidas?"
+            },
+            {
+              "type": "chapter",
+              "text": "III - Painel de Praças"
+            },
+            {
+              "type": "phrase",
+              "text": "A partir de agora, em todo treinamento em que você prestar auxílio,"
+            },
+            {
+              "type": "phrase",
+              "text": "será obrigatória a elaboração de um relatório de auxílio."
+            },
+            {
+              "type": "phrase",
+              "text": "Esse relatório poderá ser acessado por meio do Painel de Praças."
+            },
+            {
+              "type": "phrase",
+              "text": "Para acessá-lo, primeiramente entre no site do Exército Brasileiro e,"
+            },
+            {
+              "type": "phrase",
+              "text": "em seguida, clique no botão \"Login\", localizado no canto superior direito da tela."
+            },
+            {
+              "type": "phrase",
+              "text": "Por favor, acesse o site exbrhabbo.com e me avise assim que tiver acessado e clicado em \"Login\"."
+            },
+            {
+              "type": "phrase",
+              "text": "Enquanto isso, estarei solicitando a um Oficial que me encaminhe seus dados de acesso."
+            },
+            {
+              "type": "note",
+              "text": "Aguarde que o Aluno clique em \"login\" e, enquanto isso, solicite ao Oficial responsável a criação do painel do treinado. Quando receber os dados, repasse ao Aluno."
+            },
+            {
+              "type": "phrase",
+              "text": "Agora que o acesso ao painel foi efetuado, será necessário criar uma nova senha."
+            },
+            {
+              "type": "phrase",
+              "text": "Escolha uma da qual você consiga se lembrar, porque caso se esqueça, um Oficial precisará resetá-la."
+            },
+            {
+              "type": "phrase",
+              "text": "Me avise assim que concluir a alteração da senha."
+            },
+            {
+              "type": "note",
+              "text": "Aguarde que o Aluno confirme que alterou a senha do painel."
+            },
+            {
+              "type": "phrase",
+              "text": "Alguma dúvida sobre como realizar o login?"
+            },
+            {
+              "type": "chapter",
+              "text": "IV - Relatório"
+            },
+            {
+              "type": "phrase",
+              "text": "Como dito anteriormente, sempre que realizar um auxílio, deverá preencher o relatório de treinamento."
+            },
+            {
+              "type": "phrase",
+              "text": "Por meio do relatório, os Oficiais mantêm o controle e a supervisão sobre os treinamentos e seus resultados."
+            },
+            {
+              "type": "phrase",
+              "text": "Para saber como preencher adequadamente o relatório de auxílio, você deverá assistir a um vídeo no Youthube."
+            },
+            {
+              "type": "phrase",
+              "text": "Acesse o site do Youthube e procure por \"Exército Brasileiro - Treinamento Complementar II - Cm Anonimo\"."
+            },
+            {
+              "type": "phrase",
+              "text": "Me avise quando encontrar o vídeo."
+            },
+            {
+              "type": "note",
+              "text": "Aguarde a confirmação do Aluno de que o vídeo foi localizado."
+            },
+            {
+              "type": "phrase",
+              "text": "Você terá 10 minutos para assistir ao vídeo. Caso caia do treinamento, basta retornar ao Quartel."
+            },
+            {
+              "type": "phrase",
+              "text": "Ao finalizar, siga as instruções indicadas ao final do vídeo."
+            },
+            {
+              "type": "note",
+              "text": "Aguarde que o Praça assista ao vídeo. Quando ele retornar, confira se restou alguma dúvida."
+            },
+            {
+              "type": "phrase",
+              "text": "Agora, vamos colocar em prática o que foi aprendido no vídeo."
+            },
+            {
+              "type": "phrase",
+              "text": "Para isso, realizaremos uma simulação de relatório de auxílio, que servirá como teste."
+            },
+            {
+              "type": "phrase",
+              "text": "Fornecerei dados fictícios para você preencher o relatório e,"
+            },
+            {
+              "type": "phrase",
+              "text": "ao final, farei a correção de eventuais erros."
+            },
+            {
+              "type": "phrase",
+              "text": "No canto superior direito do painel, clique na primeira letra ou caractere"
+            },
+            {
+              "type": "phrase",
+              "text": "do seu nick e selecione a opção \"criar relatório\"."
+            },
+            {
+              "type": "phrase",
+              "text": "Podemos começar a preenchê-lo?"
+            },
+            {
+              "type": "note",
+              "text": "Defina um horário de início e informe ao treinado."
+            },
+            {
+              "type": "phrase",
+              "text": "Em \"Horário de início\", selecione o horário combinado."
+            },
+            {
+              "type": "phrase",
+              "text": "Em \"Tipo de Treinamento\", selecione \"Treinamento Básico I\", e na \"Sala\", selecione a Sala 1."
+            },
+            {
+              "type": "phrase",
+              "text": "Em \"Responsável\", selecione a General-de-Exército pituxa214."
+            },
+            {
+              "type": "phrase",
+              "text": "Em \"Instrutor\", digite o meu nick. Em \"Auxiliar\", deixe o seu nick."
+            },
+            {
+              "type": "phrase",
+              "text": "Em \"Treinados\", digite, separadamente: pedroSoldado1 e gabi_30"
+            },
+            {
+              "type": "phrase",
+              "text": "Clique em \"Adicionar Reprovado\" e registre que a gabi_30 foi reprovada. Motivo: Saiu do treinamento."
+            },
+            {
+              "type": "note",
+              "text": "Defina um horário de reprovação e informe ao treinado."
+            },
+            {
+              "type": "phrase",
+              "text": "Em \"Horário de fim\", registre o pedroSoldado1 como aprovado."
+            },
+            {
+              "type": "note",
+              "text": "Defina um horário de fim e informe ao treinado."
+            },
+            {
+              "type": "phrase",
+              "text": "No campo das observações, responda, em ordem, às 4 perguntas:"
+            },
+            {
+              "type": "phrase",
+              "text": "1. Como é a ortografia do treinador?"
+            },
+            {
+              "type": "phrase",
+              "text": "2. Como foi a atitude do treinador?"
+            },
+            {
+              "type": "phrase",
+              "text": "3. Houve algo de anormal no treinamento?"
+            },
+            {
+              "type": "phrase",
+              "text": "4. O treinador é paciente?"
+            },
+            {
+              "type": "phrase",
+              "text": "Como estamos em uma simulação, você pode responder genericamente às perguntas."
+            },
+            {
+              "type": "phrase",
+              "text": "Quando finalizar, pode clicar no botão \"enviar\"."
+            },
+            {
+              "type": "phrase",
+              "text": "Me informe se precisar que eu repita alguma informação e confirme quando o relatório for enviado."
+            },
+            {
+              "type": "note",
+              "text": "Aguarde que o Aluno preencha tudo e avise que enviou. Solicite ao Oficial responsável para repassá-lo a você. Confira se houve erros e corrija-os com o Aluno."
+            },
+            {
+              "type": "phrase",
+              "text": "Alguma dúvida sobre o preenchimento do relatório?"
+            },
+            {
+              "type": "chapter",
+              "text": "V - Finalização"
+            },
+            {
+              "type": "phrase",
+              "text": "Parabéns, você está aprovado no Treinamento Complementar II."
+            },
+            {
+              "type": "phrase",
+              "text": "Agora está apto a realizar auxílios."
+            },
+            {
+              "type": "phrase",
+              "text": "Verá sobre como auxiliar treinamentos com mais detalhes no seu Treinamento de Finalização (TF)."
+            },
+            {
+              "type": "phrase",
+              "text": "Altere a sigla na sua missão para <Tc2"
+            },
+            {
+              "type": "phrase",
+              "text": ">."
+            },
+            {
+              "type": "note",
+              "text": "Confira se o Praça alterou a sigla antes de liberá-lo."
+            }
           ]
         }
       ]
