@@ -1,1 +1,90 @@
-
+{
+  "password": "SUP2024",
+  "categories": [
+    {
+      "id": "supervisores",
+      "label": "Supervisores",
+      "icon": "⭐",
+      "subcategories": [
+        {
+          "id": "sup_abertura",
+          "label": "Abertura",
+          "items": [
+            {
+              "type": "note",
+              "text": "Scripts de abertura de treino para supervisores"
+            },
+            {
+              "type": "chapter",
+              "text": "Abertura da Supervisão"
+            },
+            {
+              "type": "phrase",
+              "text": "Supervisão iniciada. [PATENTE] [USERNAME] em serviço."
+            },
+            {
+              "type": "phrase",
+              "text": "Bom dia a todos. Vamos iniciar a avaliação do treino."
+            },
+            {
+              "type": "phrase",
+              "text": "Solicito silêncio e atenção durante a supervisão."
+            }
+          ]
+        },
+        {
+          "id": "sup_avaliacao",
+          "label": "Avaliação",
+          "items": [
+            {
+              "type": "note",
+              "text": "Scripts de avaliação durante o treino"
+            },
+            {
+              "type": "chapter",
+              "text": "Critérios de Avaliação"
+            },
+            {
+              "type": "phrase",
+              "text": "O instrutor demonstrou domínio do conteúdo."
+            },
+            {
+              "type": "phrase",
+              "text": "Observação: ritmo do treino acima do esperado."
+            },
+            {
+              "type": "phrase",
+              "text": "Solicito que o instrutor repita a explicação do ponto anterior."
+            }
+          ]
+        },
+        {
+          "id": "sup_encerramento",
+          "label": "Encerramento",
+          "items": [
+            {
+              "type": "note",
+              "text": "Scripts de encerramento da supervisão"
+            },
+            {
+              "type": "chapter",
+              "text": "Encerramento"
+            },
+            {
+              "type": "phrase",
+              "text": "Supervisão encerrada. Resultado será comunicado em breve."
+            },
+            {
+              "type": "phrase",
+              "text": "Agradeço a colaboração de todos. Podem dispensar."
+            },
+            {
+              "type": "phrase",
+              "text": "[PATENTE] [USERNAME] encerrando supervisão. Até a próxima."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
