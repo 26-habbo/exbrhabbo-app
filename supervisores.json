@@ -4,7 +4,7 @@
     {
       "id": "supervisores",
       "label": "Supervisores",
-      "icon": "⭐",
+      "icon": "📒",
       "subcategories": [
         {
           "id": "sup_abertura",
