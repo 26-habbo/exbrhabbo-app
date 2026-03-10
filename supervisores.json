@@ -7,83 +7,251 @@
       "icon": "📒",
       "subcategories": [
         {
-          "id": "sup_abertura",
-          "label": "Abertura",
+          "id": "pal_pis",
+          "label": "PIS",
           "items": [
             {
-              "type": "note",
-              "text": "Scripts de abertura de treino para supervisores"
+              "type": "chapter",
+              "text": "I INTRODUÇÃO"
+            },
+            {
+              "type": "phrase",
+              "text": "Eu sou o Supervisor responsável em lhe aplicar essa Palestra hoje."
+            },
+            {
+              "type": "phrase",
+              "text": "Nessa palestra entraremos em alguns pontos superficiais a fim de instruir os novos"
+            },
+            {
+              "type": "phrase",
+              "text": "membros, sanando todas as dúvidas possíveis sobre nossa instituição."
             },
             {
               "type": "chapter",
-              "text": "Abertura da Supervisão"
+              "text": "II EXÉRCITO BRASILEIRO"
             },
             {
               "type": "phrase",
-              "text": "Supervisão iniciada. [PATENTE] [USERNAME] em serviço."
+              "text": "O Exército Brasileiro do Marechal Cm-Anonimo criado em 2021 tem o intuito de trazer"
             },
             {
               "type": "phrase",
-              "text": "Bom dia a todos. Vamos iniciar a avaliação do treino."
+              "text": "ao jogador sensação de estar realmente participando de um Exército na vida real."
             },
             {
               "type": "phrase",
-              "text": "Solicito silêncio e atenção durante a supervisão."
+              "text": "Ou seja, trazemos treinamentos, grupos externos e muitas outras coisas que irá"
+            },
+            {
+              "type": "phrase",
+              "text": "encontrar em sua caminhada aqui conosco."
+            },
+            {
+              "type": "chapter",
+              "text": "III LOCAIS DO QUARTEL GENERAL"
+            },
+            {
+              "type": "chapter",
+              "text": "1. Guarda-Portão (GP)."
+            },
+            {
+              "type": "phrase",
+              "text": "São as “Cadeiras Majestosas” que ficam localizadas na parte de frente do"
+            },
+            {
+              "type": "phrase",
+              "text": "Quartel General. Sua principal função no QG como Soldado em GP é realizar o"
+            },
+            {
+              "type": "phrase",
+              "text": "alistamento dos civis que irão comparecer no GP."
+            },
+            {
+              "type": "phrase",
+              "text": "Assim que o civil sentar, deverá perguntar se o mesmo deseja se alistar."
+            },
+            {
+              "type": "phrase",
+              "text": "Exemplo: Fulano, deseja se alistar?"
+            },
+            {
+              "type": "phrase",
+              "text": "Caso ele diga sim, utilize o comando \":liberar\"."
+            },
+            {
+              "type": "phrase",
+              "text": "Caso ele não queira ou esteja atrapalhando, sussurre com um Oficial."
+            },
+            {
+              "type": "phrase",
+              "text": "Dúvidas?"
+            },
+            {
+              "type": "chapter",
+              "text": "2. Centro de Instrução (CI)."
+            },
+            {
+              "type": "phrase",
+              "text": "O Centro de Instrução (CI) é o local utilizado para a realização de promoções,"
+            },
+            {
+              "type": "phrase",
+              "text": "auxílios e treinamentos quando não enviados nas devidas salas."
+            },
+            {
+              "type": "phrase",
+              "text": "O CI são os tapetes brancos e pretos localizados na parte esquerda do Quartel"
+            },
+            {
+              "type": "phrase",
+              "text": "General."
+            },
+            {
+              "type": "phrase",
+              "text": "Tapetinho branco para quem está instruindo/promovendo;"
+            },
+            {
+              "type": "phrase",
+              "text": "Tapetinho preto para quem está recebendo a instrução/promoção."
+            },
+            {
+              "type": "phrase",
+              "text": "Você em seu atual posto de Soldado, só poderá ir até o CI quando"
+            },
+            {
+              "type": "phrase",
+              "text": "solicitado por algum Praça/Oficial capacitado para lhe instruir no mesmo."
+            },
+            {
+              "type": "phrase",
+              "text": "As instruções do CI são aplicadas individualmente, portanto, será passada"
+            },
+            {
+              "type": "phrase",
+              "text": "para você via sussurro."
+            },
+            {
+              "type": "phrase",
+              "text": "Dúvidas?"
+            },
+            {
+              "type": "chapter",
+              "text": "IV ATIVAÇÃO DAS TROCAS"
+            },
+            {
+              "type": "note",
+              "text": "Obs.: Antes de aplicar este tópico, negocie com o Soldado para verificar se ele possui as trocas ativadas, caso já possua, não é necessário a aplicação."
+            },
+            {
+              "type": "phrase",
+              "text": "Você como Soldado do Exército possui direito ao pagamento que é realizado"
+            },
+            {
+              "type": "phrase",
+              "text": "4 vezes por dia. Caso suas trocas ainda não estejam ativadas, você precisa"
+            },
+            {
+              "type": "phrase",
+              "text": "ativá-las para poder negociar e assim receber seus pagamentos."
+            },
+            {
+              "type": "phrase",
+              "text": "Como saber o que preciso fazer para ativar as minhas trocas? Simples: você"
+            },
+            {
+              "type": "phrase",
+              "text": "precisa procurar pelas Conquistas do seu usuário no jogo e realizar todas as"
+            },
+            {
+              "type": "phrase",
+              "text": "ações das abas de “Tutorial” e “Trocas Ativadas”. Algumas levam alguns dias e"
+            },
+            {
+              "type": "phrase",
+              "text": "tempo no hotel, mas várias podem ser concluídas rapidamente."
+            },
+            {
+              "type": "phrase",
+              "text": "Há vários vídeos de como liberar as trocas, basta procurar no Youtube por:"
+            },
+            {
+              "type": "phrase",
+              "text": "\"COMO LIBERAR AS TROCAS NO HABBO\" para ter mais detalhes e informações sobre o"
+            },
+            {
+              "type": "phrase",
+              "text": "assunto. Lembre-se que somente com elas ativadas poderá receber seu pagamento diário."
+            },
+            {
+              "type": "phrase",
+              "text": "Dúvidas?"
             }
           ]
         },
         {
-          "id": "sup_avaliacao",
-          "label": "Avaliação",
+          "id": "pal_mo",
+          "label": "MO",
           "items": [
-            {
-              "type": "note",
-              "text": "Scripts de avaliação durante o treino"
-            },
-            {
-              "type": "chapter",
-              "text": "Critérios de Avaliação"
-            },
-            {
-              "type": "phrase",
-              "text": "O instrutor demonstrou domínio do conteúdo."
-            },
-            {
-              "type": "phrase",
-              "text": "Observação: ritmo do treino acima do esperado."
-            },
-            {
-              "type": "phrase",
-              "text": "Solicito que o instrutor repita a explicação do ponto anterior."
-            }
+            
           ]
         },
         {
-          "id": "sup_encerramento",
-          "label": "Encerramento",
+          "id": "pal_pip",
+          "label": "PIP",
           "items": [
-            {
-              "type": "note",
-              "text": "Scripts de encerramento da supervisão"
-            },
-            {
-              "type": "chapter",
-              "text": "Encerramento"
-            },
-            {
-              "type": "phrase",
-              "text": "Supervisão encerrada. Resultado será comunicado em breve."
-            },
-            {
-              "type": "phrase",
-              "text": "Agradeço a colaboração de todos. Podem dispensar."
-            },
-            {
-              "type": "phrase",
-              "text": "[PATENTE] [USERNAME] encerrando supervisão. Até a próxima."
-            }
+            
           ]
-        }
+        },
+        {
+          "id": "pal_map",
+          "label": "MAP",
+          "items": [
+            
+          ]
+        },
+        {
+          "id": "pal_mem",
+          "label": "MEM",
+          "items": [
+            
+          ]
+        },
+        {
+          "id": "pal_sv",
+          "label": "SV",
+          "items": [
+            
+          ]
+        },
+        
+        {
+          "id": "pal_mcp",
+          "label": "MCP",
+          "items": [
+            
+          ]
+        },
+        {
+          "id": "pal_em1",
+          "label": "EM1",
+          "items": [
+            
+          ]
+        },
+        {
+          "id": "pal_em2",
+          "label": "EM2",
+          "items": [
+            
+          ]
+        },
+        {
+          "id": "pal_mfp",
+          "label": "MFP",
+          "items": [
+            
+          ]
+        },
       ]
     }
   ]
