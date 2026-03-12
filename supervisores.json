@@ -1,2108 +1,2148 @@
 {
-    "password": "Supervisores2026!",
-    "categories": [
+  "password": "Supervisores2026!",
+  "categories": [
+    {
+      "id": "supervisores",
+      "label": "Supervisores",
+      "icon": "📒",
+      "subcategories": [
         {
-            "id": "supervisores",
-            "label": "Supervisores",
-            "icon": "📒",
-            "subcategories": [
-                {
-                    "id": "pal_pis",
-                    "label": "PIS",
-                    "items": [
-                        {
-                            "type": "chapter",
-                            "text": "I INTRODUÇÃO"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Eu sou o Supervisor responsável em lhe aplicar essa Palestra hoje."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Nessa palestra entraremos em alguns pontos superficiais a fim de instruir os novos"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "membros, sanando todas as dúvidas possíveis sobre nossa instituição."
-                        },
-                        {
-                            "type": "chapter",
-                            "text": "II EXÉRCITO BRASILEIRO"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "O Exército Brasileiro do Marechal Cm-Anonimo criado em 2021 tem o intuito de trazer"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "ao jogador sensação de estar realmente participando de um Exército na vida real."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Ou seja, trazemos treinamentos, grupos externos e muitas outras coisas que irá"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "encontrar em sua caminhada aqui conosco."
-                        },
-                        {
-                            "type": "chapter",
-                            "text": "III LOCAIS DO QUARTEL GENERAL"
-                        },
-                        {
-                            "type": "chapter",
-                            "text": "1. Guarda-Portão (GP)."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "São as “Cadeiras Majestosas” que ficam localizadas na parte de frente do"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Quartel General. Sua principal função no QG como Soldado em GP é realizar o"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "alistamento dos civis que irão comparecer no GP."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Assim que o civil sentar, deverá perguntar se o mesmo deseja se alistar."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Exemplo: Fulano, deseja se alistar?"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Caso ele diga sim, utilize o comando \":liberar\"."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Caso ele não queira ou esteja atrapalhando, sussurre com um Oficial."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Dúvidas?"
-                        },
-                        {
-                            "type": "chapter",
-                            "text": "2. Centro de Instrução (CI)."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "O Centro de Instrução (CI) é o local utilizado para a realização de promoções,"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "auxílios e treinamentos quando não enviados nas devidas salas."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "O CI são os tapetes brancos e pretos localizados na parte esquerda do Quartel"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "General."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Tapetinho branco para quem está instruindo/promovendo;"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Tapetinho preto para quem está recebendo a instrução/promoção."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Você em seu atual posto de Soldado, só poderá ir até o CI quando"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "solicitado por algum Praça/Oficial capacitado para lhe instruir no mesmo."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "As instruções do CI são aplicadas individualmente, portanto, será passada"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "para você via sussurro."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Dúvidas?"
-                        },
-                        {
-                            "type": "chapter",
-                            "text": "IV ATIVAÇÃO DAS TROCAS"
-                        },
-                        {
-                            "type": "note",
-                            "text": "Obs.: Antes de aplicar este tópico, negocie com o Soldado para verificar se ele possui as trocas ativadas, caso já possua, não é necessário a aplicação."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Você como Soldado do Exército possui direito ao pagamento que é realizado"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "4 vezes por dia. Caso suas trocas ainda não estejam ativadas, você precisa"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "ativá-las para poder negociar e assim receber seus pagamentos."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Como saber o que preciso fazer para ativar as minhas trocas? Simples: você"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "precisa procurar pelas Conquistas do seu usuário no jogo e realizar todas as"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "ações das abas de “Tutorial” e “Trocas Ativadas”. Algumas levam alguns dias e"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "tempo no hotel, mas várias podem ser concluídas rapidamente."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Há vários vídeos de como liberar as trocas, basta procurar no Youtube por:"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "\"COMO LIBERAR AS TROCAS NO HABBO\" para ter mais detalhes e informações sobre o"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "assunto. Lembre-se que somente com elas ativadas poderá receber seu pagamento diário."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Dúvidas?"
-                        }
-                    ]
-                },
-                {
-                    "id": "pal_mo",
-                    "label": "MO",
-                    "items": [
-                        {
-                            "type": "chapter",
-                            "text": "I INTRODUÇÃO"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Seja bem-vindo à palestra de Módulo Ortográfico. Veremos, a seguir, algumas"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "regras para o aprimoramento da sua ortografia."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Ter uma boa escrita é essencial para TODOS os membros do Exército Brasileiro."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "A digitação correta está relacionada diretamente à comunicação entre os membros"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "de nossa instituição. Quanto melhor a nossa escrita, melhor será o entendimento"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "daquilo que está sendo passado, assim, evitando qualquer equívoco."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Ter uma boa escrita também é um fator muito observado pelos Oficiais. Sendo boa,"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "causa uma impressão positiva; sendo ruim, causa uma impressão negativa."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Por esses e outros motivos é muito importante sempre buscarmos a melhor"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "ortografia possível."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Dúvidas?"
-                        },
-                        {
-                            "type": "chapter",
-                            "text": "II USO DA VÍRGULA"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "A vírgula é um sinal de pontuação que marca uma pequena pausa no texto e"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "separa elementos de uma oração ou orações entre si dentro da mesma frase."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Devido a importância de seu uso no dia a dia, serão explicadas as principais"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "regras:"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Na separação de elementos, isto é, termos coordenados (enumeração, lista, etc)."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Por exemplo: Comprei ovos, legumes e verduras."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Para isolar o vocativo/pronomes, ou seja, ao chamar alguém na frase."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Exemplos: \"Ana, não faça isso, por favor.\"; \"Sim, senhora.\"."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Dúvidas?"
-                        },
-                        {
-                            "type": "chapter",
-                            "text": "III MAS E MAIS"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "\"Mas\" é uma conjunção adversativa, sendo assim, apresenta uma relação de"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "oposição entre duas ideias."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Equivale a \"porém\", \"contudo\", \"entretanto\", \"no entanto\"."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Por exemplo: Ela sempre se dedicou ao trabalho, mas estava exausta naquele dia."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "\"Mais\" é um pronome ou advérbio de intensidade."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Possui como antônimo a palavra \"menos\"."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Relacionado à quantidade, ao aumento, à grandeza e à comparação ou superioridade."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Exemplos: \"Esse sofá é mais caro que aquele.\""
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Dúvidas?"
-                        },
-                        {
-                            "type": "chapter",
-                            "text": "IV DICAS"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Aqui vão algumas dicas que vão ajudar a ter uma boa ortografia no QG:"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "1. Evite usar abreviações."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "2. Sempre use letra maiúscula no começo da frase e ponto final ao terminá-la."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "3. Nunca esqueça de utilizar o negrito, exceto se estiver na versão Beta."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "4. Antes de entrar no QG, confira se seu balão de fala está na cor branca."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "5. Caso tenha dúvidas sobre como escrever algo, pergunte a um amigo ou pesquise"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "no Google para ter mais certeza."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "6. Se quiser evitar repetir uma mesma palavra, pesquise por sinônimos dela."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Isso ajuda você a deixar seu vocabulário mais rico e sua escrita mais bonita."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Dúvidas?"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Agora, responda a pergunta:"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Qual a importância de uma boa escrita no Exército Brasileiro?"
-                        }
-                    ]
-                },
-                {
-                    "id": "pal_pip",
-                    "label": "PIP",
-                    "items": [
-                        {
-                            "type": "chapter",
-                            "text": "I INTRODUÇÃO"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "O Programa de Informação aos Praças (PIP) foi criado com a função de ajudar os"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Praças informando algumas  dicas de como se portar dentro do Quartel General, como"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "realizar um RE e te alertar sobre suas responsabilidades."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Afinal, queremos que você usufrua da sua estadia no Exército da melhor forma"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "possível, conseguindo realizar suas funções e tendo mais chances de êxito em"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "suas metas e consequentemente se desenvolver aqui conosco."
-                        },
-                        {
-                            "type": "chapter",
-                            "text": "II  COMPORTAMENTO NO QUARTEL GENERAL"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "No Exército Brasileiro prezamos a empatia e o respeito mútuo."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Você, como Praça, deve sempre ser respeitoso, receptivo e paciente com todos."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Sabe-se que muitos dos novos integrantes do Exército conhecem pouco sobre o"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "jogo e, por isso, podem ter mais dificuldades na adaptação do que os mais"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "experientes. Tendo isso em mente, todos devemos nos esforçar para termos o"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "máximo de tolerância, de paciência e de altruísmo para com aqueles que"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "estiverem precisando de alguma ajuda."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Entendemos que um bom tratamento é crucial para o bem estar de todos no dia a"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "dia da Instituição e que, quanto mais pudermos propagar isso, maiores são as"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "chances de sucesso nas atividades diárias."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Da mesma forma, quando você estiver realizando alguma função, tente se"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "concentrar ao máximo para realizá-la da melhor maneira possível, pois isso"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "demonstra muito sobre a sua postura perante as responsabilidades do Exército Brasileiro."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Dúvidas?"
-                        },
-                        {
-                            "type": "chapter",
-                            "text": "III RECRUTAMENTO EXTERNO"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Recrutamento é uma função que você em sua atual patente já pode exercer."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "O RE é uma das várias maneiras da instituição conseguir novos membros."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Daremos algumas instruções de como realizar um Recrutamento Externo efetivo:"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Coloque um visual diferenciado, que vá chamar atenção do abordado."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Utilize balões de fala coloridos e chamativos."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Use a criatividade para convencer o civil a te seguir e se alistar no Exército"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Brasileiro. Aqui vão algumas dicas de abordagem:"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "- “Olá, tudo bem?”"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "- “Você poderia me ajudar com uma missão aqui no jogo?”"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "- “Preciso levar pessoas ao local onde trabalho aqui no jogo. ..."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "“... Você poderia ir lá comigo para conhecer, por favor? ...”"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "“... Lá eles pagam os iniciantes 4 vezes por dia e é um ótimo local para fazer bons amigos!”"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Dúvidas?"
-                        },
-                        {
-                            "type": "chapter",
-                            "text": "IV RESPONSABILIDADES"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Quando você se alista e é aprovado no treinamento, já recebe novas"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "responsabilidades. É muito importante que você retire todas as dúvidas para que"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "possa realizar suas funções da melhor maneira possível."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Então, quando tiver alguma dúvida, não fique com receio de perguntar."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Não é necessário ficar da abertura até o fechamento do Quartel General,"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "porém, quanto mais agregar à instituição, mais terá chances de crescer"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "aqui dentro."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Para que nosso trabalho fique mais empolgante e dinâmico, prezamos"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "a comunicação."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Por isso possuímos os seguintes meios:"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "1 Servidor no Discord"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "2 Grupo no @whatsahpp"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "3 E o que mais utilizamos, o Team Speak."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Incentivamos, desde cedo, que busquem fazer parte desses meios."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Caso queira, procure um ajudante ou um Oficial."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Ajudantes usam medalha azul na farda e os Oficiais são de camisa branca!"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Dúvidas?"
-                        }
-                    ]
-                },
-                {
-                    "id": "pal_map",
-                    "label": "MAP",
-                    "items": [
-                        {
-                            "type": "chapter",
-                            "text": "I INTRODUÇÃO"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "O Módulo de Acesso aos Pagamentos (MAP) foi criado com a função de ensinar"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "como acessar as moedas na Loja e as Transações que podem ser feitas."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Relembrando o que foi repassado no Programa de Instrução ao Soldado (PIS),"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Soldados recebem 4 mobis, Soldados Estrela recebem 5 mobis e Cabos"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "recebem 6 mobis. Para recebê-los, é necessário ter as trocas ativadas."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Para ativá-las, basta pesquisar no YT o seguinte trecho:"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "\"Como desbloquear trocas Habbo Hotel 2025\" e seguir o passo a passo."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Os pagamentos dos Praças após a patente de Aluno da EsSA são feitos"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "através do Painel. Todos são realizados às 12, 15, 18 e 21 horas."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "As moedas são automaticamente depositadas aos Praças presentes no"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Quartel-General."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Dúvidas?"
-                        },
-                        {
-                            "type": "chapter",
-                            "text": "II VALORES"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "O valor do pagamento diário é de 11 moedas em cada um dos 4 horários,"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "podendo contabilizar no dia o total de 44 moedas."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Outra forma de ganhar moedas é também fazendo ações, como:"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Envio de relatórios de treinamentos e ações dos Grupos Externos (Monitores,"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Supervisores e Ajudantes)."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "A cada ação realizada, o Praça recebe o valor de 2 moedas."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Ao concluir um RE trazendo pelo menos 1 recruta, recebe o valor de 3 moedas."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Além das já citadas, outra maneira de ganhar moedas são nos eventos que"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "rotineiramente acontecem no Quartel General, como os eventos rápidos"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "e internos, podendo ser pagos tanto em câmbios, como caixas HC."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Dúvidas?"
-                        },
-                        {
-                            "type": "chapter",
-                            "text": "III LOJA"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Para acessar a Loja antes deve-se acessar o Painel de Praças pelo nosso site:"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "exbrhabbo.com"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Clique em \"Login\" na parte superior direita."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Coloque seu nickname, sua senha e prossiga."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "No seu painel existem tópicos à esquerda,"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "sendo o último tópico se chama \"Loja\" e lá ficam suas moedas."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Dúvidas?"
-                        },
-                        {
-                            "type": "chapter",
-                            "text": "IV EMBLEMAS"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Na página inicial da loja estão todos os emblemas para trocar por moedas."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Esses emblemas ficam disponíveis no seu registro,"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "que você pode consultar eles buscando o nickname no Registro Militar"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "na página inicial do Exército Brasileiro e depois clicando em \"Abrir Perfil\""
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "logo abaixo da foto do avatar."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Os emblemas são atualizados de acordo com as datas comemorativas e"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "eventos da instituição."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Sempre que possível reentre na Loja para encontrar os novos emblemas."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Dúvidas?"
-                        },
-                        {
-                            "type": "chapter",
-                            "text": "V TRANSAÇÕES"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "A parte das Transações fica a direita da Loja."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Clicando no ícone verde terá acesso aos tipos de transações que podem ser feitas."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Entre os itens temos:"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Câmbios, HC, troféu, entre outros."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Todos disponíveis para serem trocados por moedas."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Para adquirir basta clicar em cima do item que você deseja e avisar um Oficial"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "que solicitou uma transação no Painel."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Um membro do Alto Comando entrará em contato para efetuar a entrega do item."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "É recomendado que se acumule uma certa quantidade de moedas para que consiga"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "trocar por um item mais valioso."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Atenção: é permitido apenas 1 transação por semana."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Caso seja feita mais de 1 será negada"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "e levada em consideração apenas a primeira solicitada."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Caso verifique algum problema no recebimento do pagamento, informar a um Oficial."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Dúvidas?"
-                        }
-                    ]
-                },
-                {
-                    "id": "pal_mem",
-                    "label": "MEM",
-                    "items": [
-                        {
-                            "type": "chapter",
-                            "text": "I INTRODUÇÃO"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "O Plano de Carreira do Exército Brasileiro foi criado com o intuito de ajudar"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "o Praça abordando assuntos que não são mencionados nos treinamentos,"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "como: hierarquia militar, patentes, patrocinadores, privilégios e packs."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Dúvidas?"
-                        },
-                        {
-                            "type": "chapter",
-                            "text": "II HIERARQUIA MILITAR"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "A Hierarquia Militar é uma pirâmide de poder, com o topo sendo constituído pelo"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Sr. Cm-Anonimo e, a partir dele, seus subordinados. Isso significa que, abaixo"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "dele, você, como militar, pode exercer todas as patentes e funções."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Ela divide os militares em patentes, funções típicas e atípicas, fazendo assim"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "com que responsabilidades sejam distribuídas entre Oficiais e Praças, prezando"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "sempre a melhor administração e organização possível para o Exército."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Vale reforçar a importância do uso correto dos tratamentos dentro do QG:"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Senhor/Senhora para Oficiais e patente para os Praças, pois isso demonstra muito"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "do seu respeito aos seus companheiros e à Hierarquia Militar à qual todos estão"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "submetidos."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Dúvidas?"
-                        },
-                        {
-                            "type": "chapter",
-                            "text": "III PATENTES"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Estarei explicando sobre as patentes e funções do Exército Brasileiro, seguindo"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "a Hierarquia Militar."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Patentes de Praças: Recruta, Soldado, Soldado Estrela, Cabo, Aluno da EsSA,"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Terceiro Sargento, Segundo Sargento, Primeiro Sargento, Subtenente,"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Aluno da EsPCEx e Cadete da AMAN."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Patentes de Oficiais: Aspirante-a-Oficial, Segundo Tenente, Primeiro Tenente,"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Capitão, Major, Tenente-Coronel, Coronel, General-de-Brigada,"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "General-de-Divisão, General-de-Exército e Marechal."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Conforme você suba na hierarquia da instituição e alcance novas patentes, vai"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "receber a oportunidade de ganhar novas funções, como a participação nos grupos"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "externos. Caso venha a se tornar um Oficial futuramente, além dos grupos"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "externos, terá a oportunidade de fazer parte de uma das Companhias do Exército."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Dúvidas?"
-                        },
-                        {
-                            "type": "chapter",
-                            "text": "IV PATROCINADORES, PRIVILÉGIOS E PACKS"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Esses 3 grupos têm o intuito de dar exclusividade a quem comprar, cada um com"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "uma finalidade específica."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Patrocinadores - Pode ficar sem boina no Quartel General, usar cores de peles"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "diferentes e ainda pode usar sua medalha de patrocinador (Hierarquia Militar 4)."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "O valor dele é de 20 câmbios."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Privilégios: Concede benefícios, principalmente, aos participantes de eventos"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "externos do Exército. Dependendo do evento, é possível furar filas, ter acesso"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "garantido aos eventos (ainda que os quartos estejam lotados) e ser o host de"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "rodadas. Em eventos internos, é possível desbloquear uma \"segunda vida\""
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "em eventos de kicke, o que também é bastante interessante."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "O valor dele é de 10 câmbios."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Pack I - Pode usar óculos de tipos variados e cores variadas."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "O valor dele é de 7 câmbios."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Pack 2 - Pode usar bigodes e barbas de cores variadas."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "O valor dele é de 15 câmbios."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Pack 3 - Pode usar acessórios diferenciados como o coldre, fones de ouvido etc."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "O valor dele é de 30 câmbios."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Dúvidas?"
-                        }
-                    ]
-                },
-                {
-                    "id": "pal_sv",
-                    "label": "SV",
-                    "items": [
-                        {
-                            "type": "chapter",
-                            "text": "I INTRODUÇÃO"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Bem-vindo ao curso de Segurança Virtual."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Aqui traremos algumas noções de segurança e privacidade nos principais meios de"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "comunicação digitais do mundo contemporâneo."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Permaneça em silêncio e preste atenção em todas as informações passadas nesta"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "palestra."
-                        },
-                        {
-                            "type": "chapter",
-                            "text": "II CONSCIENTIZAÇÃO VIRTUAL"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Ao navegar online, mantenha-se atento aos links suspeitos em e-mails, mensagens e"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "sites."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Evite clicar em URLs desconhecidos, especialmente aqueles que solicitam informações"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "pessoais. Verifique a legitimidade examinando o endereço e procurando"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "erros ortográficos."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Conscientização digital é a chave para prevenir ataques cibernéticos portanto,"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "pense antes de clicar e proteja-se contra ameaças virtuais."
-                        },
-                        {
-                            "type": "chapter",
-                            "text": "III SENHAS"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Manter suas senhas confidenciais é crucial para preservar sua privacidade online."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Ao compartilhar senhas, você expõe informações sensíveis a riscos de segurança."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Essas chaves digitais são a primeira linha de defesa contra invasões e protegem dados"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "pessoais, financeiros e profissionais."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Mantenha suas senhas seguras, evite reutilização e atualize-as regularmente"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "para fortalecer sua defesa cibernética."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Nada adianta ter uma senha sem saber usá-la, confira nossas dicas:"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "- Nunca utilize a mesma senha em mais de três lugares."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "- Nunca passe seu acesso para ninguém, e também não anote, memorize ela."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "- Caso não consiga memorizar suas senhas ou tenha dificuldades para lembrar"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "delas, evite anotar em celulares ou computadores, que podem ser hackeados."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Faça isso em algum caderno ou bloco de notas que tenha fisicamente em sua casa,"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "pois assim você se mantém mais seguro e as chances de ter seus dados roubados"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "são bem menores."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Dúvidas?"
-                        }
-                    ]
-                },
-                {
-                    "id": "pal_mcp",
-                    "label": "MCP",
-                    "items": [
-                        {
-                            "type": "chapter",
-                            "text": "I INTRODUÇÃO"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "A palestra de Módulo de Comportamento e Postura, tem como objetivo instruir"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "os militares sobre a importância da conduta exemplar e da postura"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "profissional nas diversas situações do âmbito militar."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Para que você como praça caminhe de forma correta, é necessário"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "obedecer algumas normas, com o fim de obter um melhor relacionamento entre"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "todos, e isso ocorre principalmente a partir do entendimento sobre os três"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "tópicos que veremos nesta palestra: valores, deveres e ética."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Dúvidas?"
-                        },
-                        {
-                            "type": "chapter",
-                            "text": "II VALORES"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Dentro de uma instituição militar, a ênfase nos valores é crucial para o"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "desenvolvimento tanto do militar quanto da instituição."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Os valores, como integridade, disciplina, lealdade e respeito, não apenas"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "orientam o comportamento individual, mas também fortalecem o espírito"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "de equipe. Ao promover uma cultura baseada em princípios éticos, os militares"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "desenvolvem a confiança mútua e a resiliência necessária para enfrentar"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "os desafios nas diversas funções durante o dia dia ."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Essa fundação de valores não apenas molda a conduta do militar, mas também"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "contribui para a imagem e reputação dentro da instituição."
-                        },
-                        {
-                            "type": "chapter",
-                            "text": "III DEVERES"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Conforme o Exército Brasileiro real, aqui existem deveres morais e deveres"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "jurídicos."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "O dever moral, é algo voluntário, ou seja, sem imposição legal para seu"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "cumprimento, por exemplo: honestidade, sinceridade, honradez, lealdade,"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "justiça, não pensar em enganar e agir sempre de consciência limpa."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Já o dever jurídico, é imposto por nossas leis, normas, diretrizes, ordens,"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "entre outros, algo que deve ser seguido à risca, com possível penalidade,"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "por exemplo: respeito à hierarquia, cumprimento de ordens, fidelidade a sua"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "instituição, respeito com o próximo e etc."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Dúvidas?"
-                        },
-                        {
-                            "type": "chapter",
-                            "text": "IV ÉTICA"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "A ética militar é algo muito importante, para que a instituição flua de forma"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "limpa e agradável. Agora, passarei uma lista com importantes exemplos de ética"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "que devem ser seguidos aqui:"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "I - Cultuar a verdade, a lealdade e a responsabilidade;"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "II - Respeitar o próximo, independentemente do grau hierárquico;"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "III - Observar as normas da boa educação;"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "IV - Cumprir e fazer cumprir as leis, os regulamentos, as instruções e as"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "ordens das autoridades às quais estiver subordinado;"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "V - Ser justo e imparcial;"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "VI - Zelar sempre pelos preceitos da ética militar."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "OBS: A violação dos deveres, valores e ética militares constitui, normalmente,"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "transgressão disciplinar e pode gerar punições."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "É necessário sempre sermos justos, íntegros e fiéis ao nosso trabalho, mantendo,"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "da mesma maneira, a devida postura."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Dúvidas?"
-                        }
-                    ]
-                },
-                {
-                    "id": "pal_em1",
-                    "label": "EM1",
-                    "items": [
-                        {
-                            "type": "chapter",
-                            "text": "I INTRODUÇÃO"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Seja bem-vindo à palestra de Edital Militar I."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Aqui falaremos sobre os grupos externos e algumas graduações de que vocês podem"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "participar durante sua estadia na Instituição."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Todos demandam um comprometimento ainda maior com nossas atividades"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "diárias, mas agregam bastante na carreira dos senhores."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Falaremos sobre cada um deles nesta palestra."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Participar de um Grupo Externo lhe confere maiores possibilidades de promoção"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "e de convocação para uma academia qualificadora de Oficiais."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Atualmente, o Exército Brasileiro conta com 7 grupos externos, sendo eles:"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Ajudantes, Monitores, Supervisores, Cavalaria, Comandos, Infantaria e"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Paraquedistas."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Dúvidas?"
-                        },
-                        {
-                            "type": "chapter",
-                            "text": "II AJUDANTES"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Os Ajudantes são os guardiões dos meios de comunicação do exército."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Eles são os responsáveis por zelar pelo Team Speak, ao ajudar os Praças a"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "instalar e configurar o programa e fazer a manutenção do mesmo,"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "atualizando as patentes e supervisionando a conduta dos membros nos bate-papos."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Além disso, eles também introduzem os demais ao Dyscord e ao grupo do Uatizap."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Para fazer parte do grupo Ajudantes, precisa ter patente mínima de"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Aluno da EsSA e procurar um dos Oficiais responsáveis."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Dúvidas?"
-                        },
-                        {
-                            "type": "chapter",
-                            "text": "III MONITORES"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Os Monitores são aqueles que detêm poder para enviar e retornar com o seu"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "próprio treinamento, ou seja, sem a presença de um Oficial, somente com a sua"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "autorização."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Para fazer parte do grupo Monitores, precisa ter patente mínima de Terceiro"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Sargento com a sigla T1 e procurar um dos Oficiais responsáveis."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Dúvidas?"
-                        },
-                        {
-                            "type": "chapter",
-                            "text": "IV SUPERVISORES"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Os Supervisores são parte essencial da fidelização de Praças."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Suas funções são aplicar palestras de conteúdo complementar que guiem os membros do Exército Brasileiro na construção de suas carreiras militares,"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "englobando orientações, conselhos e até correções."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Pelo mesmo caminho, buscam ajudá-los com eventuais dúvidas e demais questões"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "que ainda não estejam tão esclarecidas em suas mentes."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Para ser um Supervisores, precisa ter patente mínima de Terceiro Sargento e"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "procurar um dos Oficiais responsáveis."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Dúvidas?"
-                        },
-                        {
-                            "type": "chapter",
-                            "text": "V CAVALARIA"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Este é o grupo destinado à graduação dos cavaleiros de nossa instituição, por"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "meio de atividades variadas de interação com cavalos e diversão entre seus"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "aprendizes."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Em seu período de abertura serão iniciadas as inscrições, e para ser um"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "convocado para a Cavalaria, deve-se cumprir com os seguintes pré-requisitos:"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "ter patente mínima de Aluno da EsSA, possuir um cavalo e fazer parte dos três"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "meios de comunicação do exército (Team Speak, Dyscord e Uatizap)."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Dúvidas?"
-                        },
-                        {
-                            "type": "chapter",
-                            "text": "VI COMANDOS"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "O Comandos é um grupo extremamente sigiloso, portanto, tudo que é passado"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "entre seus membros, é mantido em total confidencialidade."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Este é o grupo da mais alta elite do Exército Brasileiro, então um"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "pré-requisito para ser um aprendiz é se destacar dentre os demais Praças."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Além disso, o grupo não possui períodos determinados para abertura e suas"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "convocações são efetuadas por meio de inscrições."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Dúvidas?"
-                        },
-                        {
-                            "type": "chapter",
-                            "text": "VII INFANTARIA"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "A Infantaria é um grupo de treinamentos físico, tático e médico com foco na"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "prática do que realmente é o Exército Brasileiro."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Com foco, principalmente, na descontração dos aprendizes, é o único grupo"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "externo em que um Praça formado pode se tornar um Instrutor."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "A Infantaria não conta com períodos fixos para sua abertura, todavia, para"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "participar dos treinamentos, basta comparecer nos horários disponibilizados"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "pelos Instrutores, desde que possua patente mínima de Aluno da EsSA."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Dúvidas?"
-                        },
-                        {
-                            "type": "chapter",
-                            "text": "VIII PARAQUEDISTAS"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Os Paraquedistas são os membros da elite da FMB (Forças Militares Brasileiras),"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "sendo o único grupo o qual trabalha em conjunto com as duas outras instituições:"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Marinha do Brasil e Força Aérea Brasileira."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "As convocações são feitas mediante inscrição, seu funcionamento é altamente"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "sigiloso, não possui datas fixas de abertura, além de contar com pouquíssimos"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "aprendizes de cada uma das organizações militares."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Dúvidas?"
-                        }
-                    ]
-                },
-                {
-                    "id": "pal_em2",
-                    "label": "EM2",
-                    "items": [
-                        {
-                            "type": "chapter",
-                            "text": "I INTRODUÇÃO"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "As academias são períodos dedicados à formação de Sargentos e de Oficiais do"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Exército Brasileiro."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "A EsSA (Escola de Sargentos das Armas) é responsável pela"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "inserção de novos Sargentos no Corpo de Praças, os nossos treinadores."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Enquanto que a EsPCEx (Escola Preparatória de Cadetes do Exército) e a AMAN"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "(Academia Militar das Agulhas Negras) são incumbidas de graduar novos Oficiais,"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "mediante convocação e aprovação."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Dúvidas?"
-                        },
-                        {
-                            "type": "chapter",
-                            "text": "II EsSA (ESCOLA DE SARGENTOS DAS ARMAS)"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "A Escola de Sargentos das Armas é um período dedicado à formação de um 3°"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Sargento. Para a obtenção de experiência, o aluno recebe treinamentos"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "preparatórios e auxilia treinamentos antes de assumir seu posto como treinador."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "A academia proporciona, bem como, a realização de uma prova externa a qual"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "possibilita a entrada de pessoas na instituição a partir de uma patente mais"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "elevada, poupando o seu alistamento."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Dúvidas?"
-                        },
-                        {
-                            "type": "chapter",
-                            "text": "III EsPCEx (ESCOLA PREPARATÓRIA DE CADETES)"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "A Escola Preparatória de Cadetes é um período composto por três etapas, as quais"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "determinam a aprovação ou a reprovação de um Aluno, sendo elas: aulas,"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "atividades e prova. Caso aprovado, o Aluno assumirá a patente de Cadete, caso"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "reprovado, será rebaixado à patente de 3° Sargento."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Dúvidas?"
-                        },
-                        {
-                            "type": "chapter",
-                            "text": "IV AMAN (ACADEMIA MILITAR DAS AGULHAS NEGRAS)"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "A Academia Militar das Agulhas Negras é um período composto pelas mesmas etapas"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "da EsPCEx, as quais determinarão a aprovação ou a reprovação de um Cadete, sendo"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "elas: aulas, atividades e prova. Caso aprovado, o Cadete assumirá o posto de"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Aspirante-a-Oficial, sendo assim, introduzido no Corpo de Oficiais para um"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "período de observação. Caso reprovado, será rebaixado à patente de 2° Sargento."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Dúvidas?"
-                        }
-                    ]
-                },
-                {
-                    "id": "pal_mfp",
-                    "label": "MFP",
-                    "items": [
-                        {
-                            "type": "chapter",
-                            "text": "I INTRODUÇÃO"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "O Módulo de Fidelização dos Praças (MFP) foi criado visando orientar"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "vocês Praças sobre a importância de um bom tratamento para com os novos"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "integrantes do Exército Brasileiro, afinal, o tratamento com os novatos é"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "essencial para a fidelização do mesmo."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Para explorar a fundo este conceito, iremos abordar alguns assuntos pertinentes a esta"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "temática."
-                        },
-                        {
-                            "type": "chapter",
-                            "text": "II TRATAMENTO E COMPORTAMENTO ADEQUADOS"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "É possível afirmar que, a cada patente que alcançamos, nosso poder de"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "influência e nosso impacto nas ações do Exército aumentam."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Com isso, torna-se necessário aprimorar os nossos próprios métodos para atender"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "bem às demandas diárias do Quartel General. Da mesma forma que a boa recepção"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "causa bons julgamentos, se nosso tratamento for ruim, a impressão daquele"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "visitante ou do novo Praça certamente será mais negativa do que positiva,"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "e isso interfere diretamente nos nossos objetivos coletivos."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Vamos pensar que o nosso Exército pode ser tratado como uma empresa,"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "onde temos os funcionários e os clientes."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "De forma resumida, podemos dizer que nossos Oficiais e Praças são os"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "funcionários e os civis/visitantes são os clientes."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Já que o Quartel General é o nosso local de trabalho e queremos atrair o"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "interesse deles, devemos ser receptivos, educados, respeitosos, gentis e"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "falar sobre os pontos positivos de fazer parte da nossa equipe."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Além dos pagamentos 4x ao dia, podemos falar do nosso ambiente amigável e"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "familiar, de ser um dos melhores passatempos no jogo, sobre ir aprendendo mais"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "sobre o game enquanto recebe novas funções dentro do Exército, entre outras"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "formas."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Abordagens originais e criativas podem chamar ainda mais a atenção deles."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Dúvidas?"
-                        },
-                        {
-                            "type": "chapter",
-                            "text": "III ALTRUÍSMO"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "O altruísmo é a tendência natural do ser humano de se preocupar com"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "o outro e buscar ajudá-lo com suas eventuais dificuldades, que podem ser"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "momentâneas ou não."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Essa é uma característica presente nos melhores Praças do Exército e que molda"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "os futuros melhores Oficiais, pois reflete muito sobre a humildade e a empatia"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "que aquela pessoa consegue demonstrar enquanto militar."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Ser este indivíduo para alguém pode ser o diferencial para que ele encontre"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "suporte, conforto e confiança para se manter no Exército."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Muitas vezes, militares com essa característica saem da própria zona de"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "conforto para ajudar algum companheiro - em alguns casos, até se arriscam para"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "salvá-los."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Pessoas altruístas são sempre bem vistas e, normalmente, são mais requisitadas"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "do que as demais. Isso significa que essas pessoas demonstram aos superiores"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "que realizam um trabalho mais completo e produtivo."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Da mesma forma, aos seus subordinados, apresentam as características de serem"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "confiáveis e auxiliares, o que é muito importante no dia a dia em qualquer"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "lugar ou atividade que envolva diversas pessoas."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Afinal, quem não gosta de ter aquele amigo que pode te salvar quando você estiver"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "precisando de uma ajudinha, né?!"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Dúvidas?"
-                        },
-                        {
-                            "type": "chapter",
-                            "text": "IV RETENÇÃO DE NOVOS INTEGRANTES"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Todos os conceitos trabalhados até aqui, quando aplicados corretamente no dia"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "a dia de trabalho, ajudam o Exército a alcançar uma de suas finalidades:"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "a retenção dos novos integrantes."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "O que isso significa? Quer dizer que estamos ajudando o Exército a manter"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "aquelas pessoas que chegaram há pouco tempo, seja a curto ou a longo prazo."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Considerando que o Quartel General abre todos os dias e não pretende diminuir"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "isso, devemos priorizar aquilo que é bom a longo prazo, ou seja, aquilo que"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "pode trazer retorno por mais tempo, ainda que demore um pouco para que isso"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "comece a acontecer. Por exemplo: aplicar treinos, palestras e fidelizar um novo"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Praça pode fazer com que ele, em alguns dias, se torne um Sargento, podendo"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "instruir e formar novos Soldados que poderão repetir este mesmo ciclo"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "posteriormente, fazendo a válvula girar e o Exército funcionar de forma"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "autossustentável."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Sabe-se que nem sempre isso é possível, porém ainda assim a ajuda daquele Praça"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "pode ser útil caso ele não permaneça na instituição até que se torne Sargento."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Para isso, alguns exemplos de retorno a curto prazo são: o alistamento de"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "visitantes no QG por parte de um Soldado bem instruído; um bom recrutamento externo"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "realizado por um Cabo; e um auxílio de treinamento por parte de um"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Aluno da EsSA."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Todos esses exemplos configuram algum tipo de contribuição para o Exército"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "e envolvem ações básicas que todas as patentes podem exercer."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Como superiores hierarquicamente, independente de sermos Oficiais, podemos"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "ajudar os mais novos com dicas, orientações e retirando dúvidas para"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "aperfeiçoar as habilidades daquela pessoa."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Quando isso é feito com altruísmo, respeito, paciência, empatia e seriedade,"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "as chances de bons frutos individuais e coletivos serem gerados são bem"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "maiores, pois colaboramos para a integração daqueles novos membros e"
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "despertamos neles a vontade de alcançar novos patamares."
-                        },
-                        {
-                            "type": "phrase",
-                            "text": "Dúvidas?"
-                        }
-                    ]
-                }
-            ]
+          "id": "pal_pis",
+          "label": "PIS",
+          "items": [
+            {
+              "type": "chapter",
+              "text": "I INTRODUÇÃO"
+            },
+            {
+              "type": "phrase",
+              "text": "Eu sou o Supervisor responsável em lhe aplicar essa Palestra hoje."
+            },
+            {
+              "type": "phrase",
+              "text": "Nessa palestra entraremos em alguns pontos superficiais a fim de instruir os novos"
+            },
+            {
+              "type": "phrase",
+              "text": "membros, sanando todas as dúvidas possíveis sobre nossa instituição."
+            },
+            {
+              "type": "chapter",
+              "text": "II EXÉRCITO BRASILEIRO"
+            },
+            {
+              "type": "phrase",
+              "text": "O Exército Brasileiro do Marechal Cm-Anonimo criado em 2021 tem o intuito de trazer"
+            },
+            {
+              "type": "phrase",
+              "text": "ao jogador sensação de estar realmente participando de um Exército na vida real."
+            },
+            {
+              "type": "phrase",
+              "text": "Ou seja, trazemos treinamentos, grupos externos e muitas outras coisas que irá"
+            },
+            {
+              "type": "phrase",
+              "text": "encontrar em sua caminhada aqui conosco."
+            },
+            {
+              "type": "chapter",
+              "text": "III LOCAIS DO QUARTEL GENERAL"
+            },
+            {
+              "type": "chapter",
+              "text": "1. Guarda-Portão (GP)."
+            },
+            {
+              "type": "phrase",
+              "text": "São as “Cadeiras Majestosas” que ficam localizadas na parte de frente do"
+            },
+            {
+              "type": "phrase",
+              "text": "Quartel General. Sua principal função no QG como Soldado em GP é realizar o"
+            },
+            {
+              "type": "phrase",
+              "text": "alistamento dos civis que irão comparecer no GP."
+            },
+            {
+              "type": "phrase",
+              "text": "Assim que o civil sentar, deverá perguntar se o mesmo deseja se alistar."
+            },
+            {
+              "type": "phrase",
+              "text": "Exemplo: Fulano, deseja se alistar?"
+            },
+            {
+              "type": "phrase",
+              "text": "Caso ele diga sim, utilize o comando \":liberar\"."
+            },
+            {
+              "type": "phrase",
+              "text": "Caso ele não queira ou esteja atrapalhando, sussurre com um Oficial."
+            },
+            {
+              "type": "phrase",
+              "text": "Dúvidas?"
+            },
+            {
+              "type": "chapter",
+              "text": "2. Centro de Instrução (CI)."
+            },
+            {
+              "type": "phrase",
+              "text": "O Centro de Instrução (CI) é o local utilizado para a realização de promoções,"
+            },
+            {
+              "type": "phrase",
+              "text": "auxílios e treinamentos quando não enviados nas devidas salas."
+            },
+            {
+              "type": "phrase",
+              "text": "O CI são os tapetes brancos e pretos localizados na parte esquerda do Quartel"
+            },
+            {
+              "type": "phrase",
+              "text": "General."
+            },
+            {
+              "type": "phrase",
+              "text": "Tapetinho branco para quem está instruindo/promovendo;"
+            },
+            {
+              "type": "phrase",
+              "text": "Tapetinho preto para quem está recebendo a instrução/promoção."
+            },
+            {
+              "type": "phrase",
+              "text": "Você em seu atual posto de Soldado, só poderá ir até o CI quando"
+            },
+            {
+              "type": "phrase",
+              "text": "solicitado por algum Praça/Oficial capacitado para lhe instruir no mesmo."
+            },
+            {
+              "type": "phrase",
+              "text": "As instruções do CI são aplicadas individualmente, portanto, será passada"
+            },
+            {
+              "type": "phrase",
+              "text": "para você via sussurro."
+            },
+            {
+              "type": "phrase",
+              "text": "Dúvidas?"
+            },
+            {
+              "type": "chapter",
+              "text": "IV ATIVAÇÃO DAS TROCAS"
+            },
+            {
+              "type": "note",
+              "text": "Obs.: Antes de aplicar este tópico, negocie com o Soldado para verificar se ele possui as trocas ativadas, caso já possua, não é necessário a aplicação."
+            },
+            {
+              "type": "phrase",
+              "text": "Você como Soldado do Exército possui direito ao pagamento que é realizado"
+            },
+            {
+              "type": "phrase",
+              "text": "4 vezes por dia. Caso suas trocas ainda não estejam ativadas, você precisa"
+            },
+            {
+              "type": "phrase",
+              "text": "ativá-las para poder negociar e assim receber seus pagamentos."
+            },
+            {
+              "type": "phrase",
+              "text": "Como saber o que preciso fazer para ativar as minhas trocas? Simples: você"
+            },
+            {
+              "type": "phrase",
+              "text": "precisa procurar pelas Conquistas do seu usuário no jogo e realizar todas as"
+            },
+            {
+              "type": "phrase",
+              "text": "ações das abas de “Tutorial” e “Trocas Ativadas”. Algumas levam alguns dias e"
+            },
+            {
+              "type": "phrase",
+              "text": "tempo no hotel, mas várias podem ser concluídas rapidamente."
+            },
+            {
+              "type": "phrase",
+              "text": "Há vários vídeos de como liberar as trocas, basta procurar no Youtube por:"
+            },
+            {
+              "type": "phrase",
+              "text": "\"COMO LIBERAR AS TROCAS NO HABBO\" para ter mais detalhes e informações sobre o"
+            },
+            {
+              "type": "phrase",
+              "text": "assunto. Lembre-se que somente com elas ativadas poderá receber seu pagamento diário."
+            },
+            {
+              "type": "phrase",
+              "text": "Dúvidas?"
+            }
+          ]
+        },
+        {
+          "id": "pal_mo",
+          "label": "MO",
+          "items": [
+            {
+              "type": "chapter",
+              "text": "I INTRODUÇÃO"
+            },
+            {
+              "type": "phrase",
+              "text": "Seja bem-vindo à palestra de Módulo Ortográfico. Veremos, a seguir, algumas"
+            },
+            {
+              "type": "phrase",
+              "text": "regras para o aprimoramento da sua ortografia."
+            },
+            {
+              "type": "phrase",
+              "text": "Ter uma boa escrita é essencial para TODOS os membros do Exército Brasileiro."
+            },
+            {
+              "type": "phrase",
+              "text": "A digitação correta está relacionada diretamente à comunicação entre os membros"
+            },
+            {
+              "type": "phrase",
+              "text": "de nossa instituição. Quanto melhor a nossa escrita, melhor será o entendimento"
+            },
+            {
+              "type": "phrase",
+              "text": "daquilo que está sendo passado, assim, evitando qualquer equívoco."
+            },
+            {
+              "type": "phrase",
+              "text": "Ter uma boa escrita também é um fator muito observado pelos Oficiais. Sendo boa,"
+            },
+            {
+              "type": "phrase",
+              "text": "causa uma impressão positiva; sendo ruim, causa uma impressão negativa."
+            },
+            {
+              "type": "phrase",
+              "text": "Por esses e outros motivos é muito importante sempre buscarmos a melhor"
+            },
+            {
+              "type": "phrase",
+              "text": "ortografia possível."
+            },
+            {
+              "type": "phrase",
+              "text": "Dúvidas?"
+            },
+            {
+              "type": "chapter",
+              "text": "II USO DA VÍRGULA"
+            },
+            {
+              "type": "phrase",
+              "text": "A vírgula é um sinal de pontuação que marca uma pequena pausa no texto e"
+            },
+            {
+              "type": "phrase",
+              "text": "separa elementos de uma oração ou orações entre si dentro da mesma frase."
+            },
+            {
+              "type": "phrase",
+              "text": "Devido a importância de seu uso no dia a dia, serão explicadas as principais"
+            },
+            {
+              "type": "phrase",
+              "text": "regras:"
+            },
+            {
+              "type": "phrase",
+              "text": "Na separação de elementos, isto é, termos coordenados (enumeração, lista, etc)."
+            },
+            {
+              "type": "phrase",
+              "text": "Por exemplo: Comprei ovos, legumes e verduras."
+            },
+            {
+              "type": "phrase",
+              "text": "Para isolar o vocativo/pronomes, ou seja, ao chamar alguém na frase."
+            },
+            {
+              "type": "phrase",
+              "text": "Exemplos: \"Ana, não faça isso, por favor.\"; \"Sim, senhora.\"."
+            },
+            {
+              "type": "phrase",
+              "text": "Dúvidas?"
+            },
+            {
+              "type": "chapter",
+              "text": "III MAS E MAIS"
+            },
+            {
+              "type": "phrase",
+              "text": "\"Mas\" é uma conjunção adversativa, sendo assim, apresenta uma relação de"
+            },
+            {
+              "type": "phrase",
+              "text": "oposição entre duas ideias."
+            },
+            {
+              "type": "phrase",
+              "text": "Equivale a \"porém\", \"contudo\", \"entretanto\", \"no entanto\"."
+            },
+            {
+              "type": "phrase",
+              "text": "Por exemplo: Ela sempre se dedicou ao trabalho, mas estava exausta naquele dia."
+            },
+            {
+              "type": "phrase",
+              "text": "\"Mais\" é um pronome ou advérbio de intensidade."
+            },
+            {
+              "type": "phrase",
+              "text": "Possui como antônimo a palavra \"menos\"."
+            },
+            {
+              "type": "phrase",
+              "text": "Relacionado à quantidade, ao aumento, à grandeza e à comparação ou superioridade."
+            },
+            {
+              "type": "phrase",
+              "text": "Exemplos: \"Esse sofá é mais caro que aquele.\""
+            },
+            {
+              "type": "phrase",
+              "text": "Dúvidas?"
+            },
+            {
+              "type": "chapter",
+              "text": "IV DICAS"
+            },
+            {
+              "type": "phrase",
+              "text": "Aqui vão algumas dicas que vão ajudar a ter uma boa ortografia no QG:"
+            },
+            {
+              "type": "phrase",
+              "text": "1. Evite usar abreviações."
+            },
+            {
+              "type": "phrase",
+              "text": "2. Sempre use letra maiúscula no começo da frase e ponto final ao terminá-la."
+            },
+            {
+              "type": "phrase",
+              "text": "3. Nunca esqueça de utilizar o negrito, exceto se estiver na versão Beta."
+            },
+            {
+              "type": "phrase",
+              "text": "4. Antes de entrar no QG, confira se seu balão de fala está na cor branca."
+            },
+            {
+              "type": "phrase",
+              "text": "5. Caso tenha dúvidas sobre como escrever algo, pergunte a um amigo ou pesquise"
+            },
+            {
+              "type": "phrase",
+              "text": "no Google para ter mais certeza."
+            },
+            {
+              "type": "phrase",
+              "text": "6. Se quiser evitar repetir uma mesma palavra, pesquise por sinônimos dela."
+            },
+            {
+              "type": "phrase",
+              "text": "Isso ajuda você a deixar seu vocabulário mais rico e sua escrita mais bonita."
+            },
+            {
+              "type": "phrase",
+              "text": "Dúvidas?"
+            },
+            {
+              "type": "phrase",
+              "text": "Agora, responda a pergunta:"
+            },
+            {
+              "type": "phrase",
+              "text": "Qual a importância de uma boa escrita no Exército Brasileiro?"
+            }
+          ]
+        },
+        {
+          "id": "pal_pip",
+          "label": "PIP",
+          "items": [
+            {
+              "type": "chapter",
+              "text": "I INTRODUÇÃO"
+            },
+            {
+              "type": "phrase",
+              "text": "O Programa de Informação aos Praças (PIP) foi criado com a função de ajudar os"
+            },
+            {
+              "type": "phrase",
+              "text": "Praças informando algumas  dicas de como se portar dentro do Quartel General, como"
+            },
+            {
+              "type": "phrase",
+              "text": "realizar um RE e te alertar sobre suas responsabilidades."
+            },
+            {
+              "type": "phrase",
+              "text": "Afinal, queremos que você usufrua da sua estadia no Exército da melhor forma"
+            },
+            {
+              "type": "phrase",
+              "text": "possível, conseguindo realizar suas funções e tendo mais chances de êxito em"
+            },
+            {
+              "type": "phrase",
+              "text": "suas metas e consequentemente se desenvolver aqui conosco."
+            },
+            {
+              "type": "chapter",
+              "text": "II  COMPORTAMENTO NO QUARTEL GENERAL"
+            },
+            {
+              "type": "phrase",
+              "text": "No Exército Brasileiro prezamos a empatia e o respeito mútuo."
+            },
+            {
+              "type": "phrase",
+              "text": "Você, como Praça, deve sempre ser respeitoso, receptivo e paciente com todos."
+            },
+            {
+              "type": "phrase",
+              "text": "Sabe-se que muitos dos novos integrantes do Exército conhecem pouco sobre o"
+            },
+            {
+              "type": "phrase",
+              "text": "jogo e, por isso, podem ter mais dificuldades na adaptação do que os mais"
+            },
+            {
+              "type": "phrase",
+              "text": "experientes. Tendo isso em mente, todos devemos nos esforçar para termos o"
+            },
+            {
+              "type": "phrase",
+              "text": "máximo de tolerância, de paciência e de altruísmo para com aqueles que"
+            },
+            {
+              "type": "phrase",
+              "text": "estiverem precisando de alguma ajuda."
+            },
+            {
+              "type": "phrase",
+              "text": "Entendemos que um bom tratamento é crucial para o bem estar de todos no dia a"
+            },
+            {
+              "type": "phrase",
+              "text": "dia da Instituição e que, quanto mais pudermos propagar isso, maiores são as"
+            },
+            {
+              "type": "phrase",
+              "text": "chances de sucesso nas atividades diárias."
+            },
+            {
+              "type": "phrase",
+              "text": "Da mesma forma, quando você estiver realizando alguma função, tente se"
+            },
+            {
+              "type": "phrase",
+              "text": "concentrar ao máximo para realizá-la da melhor maneira possível, pois isso"
+            },
+            {
+              "type": "phrase",
+              "text": "demonstra muito sobre a sua postura perante as responsabilidades do Exército Brasileiro."
+            },
+            {
+              "type": "phrase",
+              "text": "Dúvidas?"
+            },
+            {
+              "type": "chapter",
+              "text": "III RECRUTAMENTO EXTERNO"
+            },
+            {
+              "type": "phrase",
+              "text": "Recrutamento é uma função que você em sua atual patente já pode exercer."
+            },
+            {
+              "type": "phrase",
+              "text": "O RE é uma das várias maneiras da instituição conseguir novos membros."
+            },
+            {
+              "type": "phrase",
+              "text": "Daremos algumas instruções de como realizar um Recrutamento Externo efetivo:"
+            },
+            {
+              "type": "phrase",
+              "text": "Coloque um visual diferenciado, que vá chamar atenção do abordado."
+            },
+            {
+              "type": "phrase",
+              "text": "Utilize balões de fala coloridos e chamativos."
+            },
+            {
+              "type": "phrase",
+              "text": "Use a criatividade para convencer o civil a te seguir e se alistar no Exército"
+            },
+            {
+              "type": "phrase",
+              "text": "Brasileiro. Aqui vão algumas dicas de abordagem:"
+            },
+            {
+              "type": "phrase",
+              "text": "- “Olá, tudo bem?”"
+            },
+            {
+              "type": "phrase",
+              "text": "- “Você poderia me ajudar com uma missão aqui no jogo?”"
+            },
+            {
+              "type": "phrase",
+              "text": "- “Preciso levar pessoas ao local onde trabalho aqui no jogo. ..."
+            },
+            {
+              "type": "phrase",
+              "text": "“... Você poderia ir lá comigo para conhecer, por favor? ...”"
+            },
+            {
+              "type": "phrase",
+              "text": "“... Lá eles pagam os iniciantes 4 vezes por dia e é um ótimo local para fazer bons amigos!”"
+            },
+            {
+              "type": "phrase",
+              "text": "Dúvidas?"
+            },
+            {
+              "type": "chapter",
+              "text": "IV RESPONSABILIDADES"
+            },
+            {
+              "type": "phrase",
+              "text": "Quando você se alista e é aprovado no treinamento, já recebe novas"
+            },
+            {
+              "type": "phrase",
+              "text": "responsabilidades. É muito importante que você retire todas as dúvidas para que"
+            },
+            {
+              "type": "phrase",
+              "text": "possa realizar suas funções da melhor maneira possível."
+            },
+            {
+              "type": "phrase",
+              "text": "Então, quando tiver alguma dúvida, não fique com receio de perguntar."
+            },
+            {
+              "type": "phrase",
+              "text": "Não é necessário ficar da abertura até o fechamento do Quartel General,"
+            },
+            {
+              "type": "phrase",
+              "text": "porém, quanto mais agregar à instituição, mais terá chances de crescer"
+            },
+            {
+              "type": "phrase",
+              "text": "aqui dentro."
+            },
+            {
+              "type": "phrase",
+              "text": "Para que nosso trabalho fique mais empolgante e dinâmico, prezamos"
+            },
+            {
+              "type": "phrase",
+              "text": "a comunicação."
+            },
+            {
+              "type": "phrase",
+              "text": "Por isso possuímos os seguintes meios:"
+            },
+            {
+              "type": "phrase",
+              "text": "1 Servidor no Discord"
+            },
+            {
+              "type": "phrase",
+              "text": "2 Grupo no @whatsahpp"
+            },
+            {
+              "type": "phrase",
+              "text": "3 E o que mais utilizamos, o Team Speak."
+            },
+            {
+              "type": "phrase",
+              "text": "Incentivamos, desde cedo, que busquem fazer parte desses meios."
+            },
+            {
+              "type": "phrase",
+              "text": "Caso queira, procure um ajudante ou um Oficial."
+            },
+            {
+              "type": "phrase",
+              "text": "Ajudantes usam medalha azul na farda e os Oficiais são de camisa branca!"
+            },
+            {
+              "type": "phrase",
+              "text": "Dúvidas?"
+            }
+          ]
+        },
+        {
+          "id": "pal_map",
+          "label": "MAP",
+          "items": [
+            {
+              "type": "chapter",
+              "text": "I INTRODUÇÃO"
+            },
+            {
+              "type": "phrase",
+              "text": "O Módulo de Acesso aos Pagamentos (MAP) foi criado com a função de ensinar"
+            },
+            {
+              "type": "phrase",
+              "text": "como acessar as moedas na Loja e as Transações que podem ser feitas."
+            },
+            {
+              "type": "phrase",
+              "text": "Relembrando o que foi repassado no Programa de Instrução ao Soldado (PIS),"
+            },
+            {
+              "type": "phrase",
+              "text": "Soldados recebem 4 mobis, Soldados Estrela recebem 5 mobis e Cabos"
+            },
+            {
+              "type": "phrase",
+              "text": "recebem 6 mobis. Para recebê-los, é necessário ter as trocas ativadas."
+            },
+            {
+              "type": "phrase",
+              "text": "Para ativá-las, basta pesquisar no YT o seguinte trecho:"
+            },
+            {
+              "type": "phrase",
+              "text": "\"Como desbloquear trocas Habbo Hotel 2025\" e seguir o passo a passo."
+            },
+            {
+              "type": "phrase",
+              "text": "Os pagamentos dos Praças após a patente de Aluno da EsSA são feitos"
+            },
+            {
+              "type": "phrase",
+              "text": "através do Painel. Todos são realizados às 12, 15, 18 e 21 horas."
+            },
+            {
+              "type": "phrase",
+              "text": "As moedas são automaticamente depositadas aos Praças presentes no"
+            },
+            {
+              "type": "phrase",
+              "text": "Quartel-General."
+            },
+            {
+              "type": "phrase",
+              "text": "Dúvidas?"
+            },
+            {
+              "type": "chapter",
+              "text": "II VALORES"
+            },
+            {
+              "type": "phrase",
+              "text": "O valor do pagamento diário é de 11 moedas em cada um dos 4 horários,"
+            },
+            {
+              "type": "phrase",
+              "text": "podendo contabilizar no dia o total de 44 moedas."
+            },
+            {
+              "type": "phrase",
+              "text": "Outra forma de ganhar moedas é também fazendo ações, como:"
+            },
+            {
+              "type": "phrase",
+              "text": "Envio de relatórios de treinamentos e ações dos Grupos Externos (Monitores,"
+            },
+            {
+              "type": "phrase",
+              "text": "Supervisores e Ajudantes)."
+            },
+            {
+              "type": "phrase",
+              "text": "A cada ação realizada, o Praça recebe o valor de 2 moedas."
+            },
+            {
+              "type": "phrase",
+              "text": "Ao concluir um RE trazendo pelo menos 1 recruta, recebe o valor de 3 moedas."
+            },
+            {
+              "type": "phrase",
+              "text": "Além das já citadas, outra maneira de ganhar moedas são nos eventos que"
+            },
+            {
+              "type": "phrase",
+              "text": "rotineiramente acontecem no Quartel General, como os eventos rápidos"
+            },
+            {
+              "type": "phrase",
+              "text": "e internos, podendo ser pagos tanto em câmbios, como caixas HC."
+            },
+            {
+              "type": "phrase",
+              "text": "Dúvidas?"
+            },
+            {
+              "type": "chapter",
+              "text": "III LOJA"
+            },
+            {
+              "type": "phrase",
+              "text": "Para acessar a Loja antes deve-se acessar o Painel de Praças pelo nosso site:"
+            },
+            {
+              "type": "phrase",
+              "text": "exbrhabbo.com"
+            },
+            {
+              "type": "phrase",
+              "text": "Clique em \"Login\" na parte superior direita."
+            },
+            {
+              "type": "phrase",
+              "text": "Coloque seu nickname, sua senha e prossiga."
+            },
+            {
+              "type": "phrase",
+              "text": "No seu painel existem tópicos à esquerda,"
+            },
+            {
+              "type": "phrase",
+              "text": "sendo o último tópico se chama \"Loja\" e lá ficam suas moedas."
+            },
+            {
+              "type": "phrase",
+              "text": "Dúvidas?"
+            },
+            {
+              "type": "chapter",
+              "text": "IV EMBLEMAS"
+            },
+            {
+              "type": "phrase",
+              "text": "Na página inicial da loja estão todos os emblemas para trocar por moedas."
+            },
+            {
+              "type": "phrase",
+              "text": "Esses emblemas ficam disponíveis no seu registro,"
+            },
+            {
+              "type": "phrase",
+              "text": "que você pode consultar eles buscando o nickname no Registro Militar"
+            },
+            {
+              "type": "phrase",
+              "text": "na página inicial do Exército Brasileiro e depois clicando em \"Abrir Perfil\""
+            },
+            {
+              "type": "phrase",
+              "text": "logo abaixo da foto do avatar."
+            },
+            {
+              "type": "phrase",
+              "text": "Os emblemas são atualizados de acordo com as datas comemorativas e"
+            },
+            {
+              "type": "phrase",
+              "text": "eventos da instituição."
+            },
+            {
+              "type": "phrase",
+              "text": "Sempre que possível reentre na Loja para encontrar os novos emblemas."
+            },
+            {
+              "type": "phrase",
+              "text": "Dúvidas?"
+            },
+            {
+              "type": "chapter",
+              "text": "V TRANSAÇÕES"
+            },
+            {
+              "type": "phrase",
+              "text": "A parte das Transações fica a direita da Loja."
+            },
+            {
+              "type": "phrase",
+              "text": "Clicando no ícone verde terá acesso aos tipos de transações que podem ser feitas."
+            },
+            {
+              "type": "phrase",
+              "text": "Entre os itens temos:"
+            },
+            {
+              "type": "phrase",
+              "text": "Câmbios, HC, troféu, entre outros."
+            },
+            {
+              "type": "phrase",
+              "text": "Todos disponíveis para serem trocados por moedas."
+            },
+            {
+              "type": "phrase",
+              "text": "Para adquirir basta clicar em cima do item que você deseja e avisar um Oficial"
+            },
+            {
+              "type": "phrase",
+              "text": "que solicitou uma transação no Painel."
+            },
+            {
+              "type": "phrase",
+              "text": "Um membro do Alto Comando entrará em contato para efetuar a entrega do item."
+            },
+            {
+              "type": "phrase",
+              "text": "É recomendado que se acumule uma certa quantidade de moedas para que consiga"
+            },
+            {
+              "type": "phrase",
+              "text": "trocar por um item mais valioso."
+            },
+            {
+              "type": "phrase",
+              "text": "Atenção: é permitido apenas 1 transação por semana."
+            },
+            {
+              "type": "phrase",
+              "text": "Caso seja feita mais de 1 será negada"
+            },
+            {
+              "type": "phrase",
+              "text": "e levada em consideração apenas a primeira solicitada."
+            },
+            {
+              "type": "phrase",
+              "text": "Caso verifique algum problema no recebimento do pagamento, informar a um Oficial."
+            },
+            {
+              "type": "phrase",
+              "text": "Dúvidas?"
+            }
+          ]
+        },
+        {
+          "id": "pal_mem",
+          "label": "MEM",
+          "items": [
+            {
+              "type": "chapter",
+              "text": "I INTRODUÇÃO"
+            },
+            {
+              "type": "phrase",
+              "text": "O Plano de Carreira do Exército Brasileiro foi criado com o intuito de ajudar"
+            },
+            {
+              "type": "phrase",
+              "text": "o Praça abordando assuntos que não são mencionados nos treinamentos,"
+            },
+            {
+              "type": "phrase",
+              "text": "como: hierarquia militar, patentes, patrocinadores, privilégios e packs."
+            },
+            {
+              "type": "phrase",
+              "text": "Dúvidas?"
+            },
+            {
+              "type": "chapter",
+              "text": "II HIERARQUIA MILITAR"
+            },
+            {
+              "type": "phrase",
+              "text": "A Hierarquia Militar é uma pirâmide de poder, com o topo sendo constituído pelo"
+            },
+            {
+              "type": "phrase",
+              "text": "Sr. Cm-Anonimo e, a partir dele, seus subordinados. Isso significa que, abaixo"
+            },
+            {
+              "type": "phrase",
+              "text": "dele, você, como militar, pode exercer todas as patentes e funções."
+            },
+            {
+              "type": "phrase",
+              "text": "Ela divide os militares em patentes, funções típicas e atípicas, fazendo assim"
+            },
+            {
+              "type": "phrase",
+              "text": "com que responsabilidades sejam distribuídas entre Oficiais e Praças, prezando"
+            },
+            {
+              "type": "phrase",
+              "text": "sempre a melhor administração e organização possível para o Exército."
+            },
+            {
+              "type": "phrase",
+              "text": "Vale reforçar a importância do uso correto dos tratamentos dentro do QG:"
+            },
+            {
+              "type": "phrase",
+              "text": "Senhor/Senhora para Oficiais e patente para os Praças, pois isso demonstra muito"
+            },
+            {
+              "type": "phrase",
+              "text": "do seu respeito aos seus companheiros e à Hierarquia Militar à qual todos estão"
+            },
+            {
+              "type": "phrase",
+              "text": "submetidos."
+            },
+            {
+              "type": "phrase",
+              "text": "Dúvidas?"
+            },
+            {
+              "type": "chapter",
+              "text": "III PATENTES"
+            },
+            {
+              "type": "phrase",
+              "text": "Estarei explicando sobre as patentes e funções do Exército Brasileiro, seguindo"
+            },
+            {
+              "type": "phrase",
+              "text": "a Hierarquia Militar."
+            },
+            {
+              "type": "phrase",
+              "text": "Patentes de Praças: Recruta, Soldado, Soldado Estrela, Cabo, Aluno da EsSA,"
+            },
+            {
+              "type": "phrase",
+              "text": "Terceiro Sargento, Segundo Sargento, Primeiro Sargento, Subtenente,"
+            },
+            {
+              "type": "phrase",
+              "text": "Aluno da EsPCEx e Cadete da AMAN."
+            },
+            {
+              "type": "phrase",
+              "text": "Patentes de Oficiais: Aspirante-a-Oficial, Segundo Tenente, Primeiro Tenente,"
+            },
+            {
+              "type": "phrase",
+              "text": "Capitão, Major, Tenente-Coronel, Coronel, General-de-Brigada,"
+            },
+            {
+              "type": "phrase",
+              "text": "General-de-Divisão, General-de-Exército e Marechal."
+            },
+            {
+              "type": "phrase",
+              "text": "Conforme você suba na hierarquia da instituição e alcance novas patentes, vai"
+            },
+            {
+              "type": "phrase",
+              "text": "receber a oportunidade de ganhar novas funções, como a participação nos grupos"
+            },
+            {
+              "type": "phrase",
+              "text": "externos. Caso venha a se tornar um Oficial futuramente, além dos grupos"
+            },
+            {
+              "type": "phrase",
+              "text": "externos, terá a oportunidade de fazer parte de uma das Companhias do Exército."
+            },
+            {
+              "type": "phrase",
+              "text": "Dúvidas?"
+            },
+            {
+              "type": "chapter",
+              "text": "IV PATROCINADORES, PRIVILÉGIOS E PACKS"
+            },
+            {
+              "type": "phrase",
+              "text": "Esses 3 grupos têm o intuito de dar exclusividade a quem comprar, cada um com"
+            },
+            {
+              "type": "phrase",
+              "text": "uma finalidade específica."
+            },
+            {
+              "type": "phrase",
+              "text": "Patrocinadores - Pode ficar sem boina no Quartel General, usar cores de peles"
+            },
+            {
+              "type": "phrase",
+              "text": "diferentes e ainda pode usar sua medalha de patrocinador (Hierarquia Militar 4)."
+            },
+            {
+              "type": "phrase",
+              "text": "O valor dele é de 20 câmbios."
+            },
+            {
+              "type": "phrase",
+              "text": "Privilégios: Concede benefícios, principalmente, aos participantes de eventos"
+            },
+            {
+              "type": "phrase",
+              "text": "externos do Exército. Dependendo do evento, é possível furar filas, ter acesso"
+            },
+            {
+              "type": "phrase",
+              "text": "garantido aos eventos (ainda que os quartos estejam lotados) e ser o host de"
+            },
+            {
+              "type": "phrase",
+              "text": "rodadas. Em eventos internos, é possível desbloquear uma \"segunda vida\""
+            },
+            {
+              "type": "phrase",
+              "text": "em eventos de kicke, o que também é bastante interessante."
+            },
+            {
+              "type": "phrase",
+              "text": "O valor dele é de 10 câmbios."
+            },
+            {
+              "type": "phrase",
+              "text": "Pack I - Pode usar óculos de tipos variados e cores variadas."
+            },
+            {
+              "type": "phrase",
+              "text": "O valor dele é de 7 câmbios."
+            },
+            {
+              "type": "phrase",
+              "text": "Pack 2 - Pode usar bigodes e barbas de cores variadas."
+            },
+            {
+              "type": "phrase",
+              "text": "O valor dele é de 15 câmbios."
+            },
+            {
+              "type": "phrase",
+              "text": "Pack 3 - Pode usar acessórios diferenciados como o coldre, fones de ouvido etc."
+            },
+            {
+              "type": "phrase",
+              "text": "O valor dele é de 30 câmbios."
+            },
+            {
+              "type": "phrase",
+              "text": "Dúvidas?"
+            }
+          ]
+        },
+        {
+          "id": "pal_sv",
+          "label": "SV",
+          "items": [
+            {
+              "type": "chapter",
+              "text": "I INTRODUÇÃO"
+            },
+            {
+              "type": "phrase",
+              "text": "Bem-vindo ao curso de Segurança Virtual."
+            },
+            {
+              "type": "phrase",
+              "text": "Aqui traremos algumas noções de segurança e privacidade nos principais meios de"
+            },
+            {
+              "type": "phrase",
+              "text": "comunicação digitais do mundo contemporâneo."
+            },
+            {
+              "type": "phrase",
+              "text": "Permaneça em silêncio e preste atenção em todas as informações passadas nesta"
+            },
+            {
+              "type": "phrase",
+              "text": "palestra."
+            },
+            {
+              "type": "chapter",
+              "text": "II CONSCIENTIZAÇÃO VIRTUAL"
+            },
+            {
+              "type": "phrase",
+              "text": "Ao navegar online, mantenha-se atento aos links suspeitos em e-mails, mensagens e"
+            },
+            {
+              "type": "phrase",
+              "text": "sites."
+            },
+            {
+              "type": "phrase",
+              "text": "Evite clicar em URLs desconhecidos, especialmente aqueles que solicitam informações"
+            },
+            {
+              "type": "phrase",
+              "text": "pessoais. Verifique a legitimidade examinando o endereço e procurando"
+            },
+            {
+              "type": "phrase",
+              "text": "erros ortográficos."
+            },
+            {
+              "type": "phrase",
+              "text": "Conscientização digital é a chave para prevenir ataques cibernéticos portanto,"
+            },
+            {
+              "type": "phrase",
+              "text": "pense antes de clicar e proteja-se contra ameaças virtuais."
+            },
+            {
+              "type": "chapter",
+              "text": "III SENHAS"
+            },
+            {
+              "type": "phrase",
+              "text": "Manter suas senhas confidenciais é crucial para preservar sua privacidade online."
+            },
+            {
+              "type": "phrase",
+              "text": "Ao compartilhar senhas, você expõe informações sensíveis a riscos de segurança."
+            },
+            {
+              "type": "phrase",
+              "text": "Essas chaves digitais são a primeira linha de defesa contra invasões e protegem dados"
+            },
+            {
+              "type": "phrase",
+              "text": "pessoais, financeiros e profissionais."
+            },
+            {
+              "type": "phrase",
+              "text": "Mantenha suas senhas seguras, evite reutilização e atualize-as regularmente"
+            },
+            {
+              "type": "phrase",
+              "text": "para fortalecer sua defesa cibernética."
+            },
+            {
+              "type": "phrase",
+              "text": "Nada adianta ter uma senha sem saber usá-la, confira nossas dicas:"
+            },
+            {
+              "type": "phrase",
+              "text": "- Nunca utilize a mesma senha em mais de três lugares."
+            },
+            {
+              "type": "phrase",
+              "text": "- Nunca passe seu acesso para ninguém, e também não anote, memorize ela."
+            },
+            {
+              "type": "phrase",
+              "text": "- Caso não consiga memorizar suas senhas ou tenha dificuldades para lembrar"
+            },
+            {
+              "type": "phrase",
+              "text": "delas, evite anotar em celulares ou computadores, que podem ser hackeados."
+            },
+            {
+              "type": "phrase",
+              "text": "Faça isso em algum caderno ou bloco de notas que tenha fisicamente em sua casa,"
+            },
+            {
+              "type": "phrase",
+              "text": "pois assim você se mantém mais seguro e as chances de ter seus dados roubados"
+            },
+            {
+              "type": "phrase",
+              "text": "são bem menores."
+            },
+            {
+              "type": "phrase",
+              "text": "Dúvidas?"
+            }
+          ]
+        },
+        {
+          "id": "pal_mcp",
+          "label": "MCP",
+          "items": [
+            {
+              "type": "chapter",
+              "text": "I INTRODUÇÃO"
+            },
+            {
+              "type": "phrase",
+              "text": "A palestra de Módulo de Comportamento e Postura, tem como objetivo instruir"
+            },
+            {
+              "type": "phrase",
+              "text": "os militares sobre a importância da conduta exemplar e da postura"
+            },
+            {
+              "type": "phrase",
+              "text": "profissional nas diversas situações do âmbito militar."
+            },
+            {
+              "type": "phrase",
+              "text": "Para que você como praça caminhe de forma correta, é necessário"
+            },
+            {
+              "type": "phrase",
+              "text": "obedecer algumas normas, com o fim de obter um melhor relacionamento entre"
+            },
+            {
+              "type": "phrase",
+              "text": "todos, e isso ocorre principalmente a partir do entendimento sobre os três"
+            },
+            {
+              "type": "phrase",
+              "text": "tópicos que veremos nesta palestra: valores, deveres e ética."
+            },
+            {
+              "type": "phrase",
+              "text": "Dúvidas?"
+            },
+            {
+              "type": "chapter",
+              "text": "II VALORES"
+            },
+            {
+              "type": "phrase",
+              "text": "Dentro de uma instituição militar, a ênfase nos valores é crucial para o"
+            },
+            {
+              "type": "phrase",
+              "text": "desenvolvimento tanto do militar quanto da instituição."
+            },
+            {
+              "type": "phrase",
+              "text": "Os valores, como integridade, disciplina, lealdade e respeito, não apenas"
+            },
+            {
+              "type": "phrase",
+              "text": "orientam o comportamento individual, mas também fortalecem o espírito"
+            },
+            {
+              "type": "phrase",
+              "text": "de equipe. Ao promover uma cultura baseada em princípios éticos, os militares"
+            },
+            {
+              "type": "phrase",
+              "text": "desenvolvem a confiança mútua e a resiliência necessária para enfrentar"
+            },
+            {
+              "type": "phrase",
+              "text": "os desafios nas diversas funções durante o dia dia ."
+            },
+            {
+              "type": "phrase",
+              "text": "Essa fundação de valores não apenas molda a conduta do militar, mas também"
+            },
+            {
+              "type": "phrase",
+              "text": "contribui para a imagem e reputação dentro da instituição."
+            },
+            {
+              "type": "chapter",
+              "text": "III DEVERES"
+            },
+            {
+              "type": "phrase",
+              "text": "Conforme o Exército Brasileiro real, aqui existem deveres morais e deveres"
+            },
+            {
+              "type": "phrase",
+              "text": "jurídicos."
+            },
+            {
+              "type": "phrase",
+              "text": "O dever moral, é algo voluntário, ou seja, sem imposição legal para seu"
+            },
+            {
+              "type": "phrase",
+              "text": "cumprimento, por exemplo: honestidade, sinceridade, honradez, lealdade,"
+            },
+            {
+              "type": "phrase",
+              "text": "justiça, não pensar em enganar e agir sempre de consciência limpa."
+            },
+            {
+              "type": "phrase",
+              "text": "Já o dever jurídico, é imposto por nossas leis, normas, diretrizes, ordens,"
+            },
+            {
+              "type": "phrase",
+              "text": "entre outros, algo que deve ser seguido à risca, com possível penalidade,"
+            },
+            {
+              "type": "phrase",
+              "text": "por exemplo: respeito à hierarquia, cumprimento de ordens, fidelidade a sua"
+            },
+            {
+              "type": "phrase",
+              "text": "instituição, respeito com o próximo e etc."
+            },
+            {
+              "type": "phrase",
+              "text": "Dúvidas?"
+            },
+            {
+              "type": "chapter",
+              "text": "IV ÉTICA"
+            },
+            {
+              "type": "phrase",
+              "text": "A ética militar é algo muito importante, para que a instituição flua de forma"
+            },
+            {
+              "type": "phrase",
+              "text": "limpa e agradável. Agora, passarei uma lista com importantes exemplos de ética"
+            },
+            {
+              "type": "phrase",
+              "text": "que devem ser seguidos aqui:"
+            },
+            {
+              "type": "phrase",
+              "text": "I - Cultuar a verdade, a lealdade e a responsabilidade;"
+            },
+            {
+              "type": "phrase",
+              "text": "II - Respeitar o próximo, independentemente do grau hierárquico;"
+            },
+            {
+              "type": "phrase",
+              "text": "III - Observar as normas da boa educação;"
+            },
+            {
+              "type": "phrase",
+              "text": "IV - Cumprir e fazer cumprir as leis, os regulamentos, as instruções e as"
+            },
+            {
+              "type": "phrase",
+              "text": "ordens das autoridades às quais estiver subordinado;"
+            },
+            {
+              "type": "phrase",
+              "text": "V - Ser justo e imparcial;"
+            },
+            {
+              "type": "phrase",
+              "text": "VI - Zelar sempre pelos preceitos da ética militar."
+            },
+            {
+              "type": "phrase",
+              "text": "OBS: A violação dos deveres, valores e ética militares constitui, normalmente,"
+            },
+            {
+              "type": "phrase",
+              "text": "transgressão disciplinar e pode gerar punições."
+            },
+            {
+              "type": "phrase",
+              "text": "É necessário sempre sermos justos, íntegros e fiéis ao nosso trabalho, mantendo,"
+            },
+            {
+              "type": "phrase",
+              "text": "da mesma maneira, a devida postura."
+            },
+            {
+              "type": "phrase",
+              "text": "Dúvidas?"
+            }
+          ]
+        },
+        {
+          "id": "pal_em1",
+          "label": "EM1",
+          "items": [
+            {
+              "type": "chapter",
+              "text": "I INTRODUÇÃO"
+            },
+            {
+              "type": "phrase",
+              "text": "Seja bem-vindo à palestra de Edital Militar I."
+            },
+            {
+              "type": "phrase",
+              "text": "Aqui falaremos sobre os grupos externos e algumas graduações de que vocês podem"
+            },
+            {
+              "type": "phrase",
+              "text": "participar durante sua estadia na Instituição."
+            },
+            {
+              "type": "phrase",
+              "text": "Todos demandam um comprometimento ainda maior com nossas atividades"
+            },
+            {
+              "type": "phrase",
+              "text": "diárias, mas agregam bastante na carreira dos senhores."
+            },
+            {
+              "type": "phrase",
+              "text": "Falaremos sobre cada um deles nesta palestra."
+            },
+            {
+              "type": "phrase",
+              "text": "Participar de um Grupo Externo lhe confere maiores possibilidades de promoção"
+            },
+            {
+              "type": "phrase",
+              "text": "e de convocação para uma academia qualificadora de Oficiais."
+            },
+            {
+              "type": "phrase",
+              "text": "Atualmente, o Exército Brasileiro conta com 7 grupos externos, sendo eles:"
+            },
+            {
+              "type": "phrase",
+              "text": "Ajudantes, Monitores, Supervisores, Cavalaria, Comandos, Infantaria e"
+            },
+            {
+              "type": "phrase",
+              "text": "Paraquedistas."
+            },
+            {
+              "type": "phrase",
+              "text": "Dúvidas?"
+            },
+            {
+              "type": "chapter",
+              "text": "II AJUDANTES"
+            },
+            {
+              "type": "phrase",
+              "text": "Os Ajudantes são os guardiões dos meios de comunicação do exército."
+            },
+            {
+              "type": "phrase",
+              "text": "Eles são os responsáveis por zelar pelo Team Speak, ao ajudar os Praças a"
+            },
+            {
+              "type": "phrase",
+              "text": "instalar e configurar o programa e fazer a manutenção do mesmo,"
+            },
+            {
+              "type": "phrase",
+              "text": "atualizando as patentes e supervisionando a conduta dos membros nos bate-papos."
+            },
+            {
+              "type": "phrase",
+              "text": "Além disso, eles também introduzem os demais ao Dyscord e ao grupo do Uatizap."
+            },
+            {
+              "type": "phrase",
+              "text": "Para fazer parte do grupo Ajudantes, precisa ter patente mínima de"
+            },
+            {
+              "type": "phrase",
+              "text": "Aluno da EsSA e procurar um dos Oficiais responsáveis."
+            },
+            {
+              "type": "phrase",
+              "text": "Dúvidas?"
+            },
+            {
+              "type": "chapter",
+              "text": "III MONITORES"
+            },
+            {
+              "type": "phrase",
+              "text": "Os Monitores são aqueles que detêm poder para enviar e retornar com o seu"
+            },
+            {
+              "type": "phrase",
+              "text": "próprio treinamento, ou seja, sem a presença de um Oficial, somente com a sua"
+            },
+            {
+              "type": "phrase",
+              "text": "autorização."
+            },
+            {
+              "type": "phrase",
+              "text": "Para fazer parte do grupo Monitores, precisa ter patente mínima de Terceiro"
+            },
+            {
+              "type": "phrase",
+              "text": "Sargento com a sigla T1 e procurar um dos Oficiais responsáveis."
+            },
+            {
+              "type": "phrase",
+              "text": "Dúvidas?"
+            },
+            {
+              "type": "chapter",
+              "text": "IV SUPERVISORES"
+            },
+            {
+              "type": "phrase",
+              "text": "Os Supervisores são parte essencial da fidelização de Praças."
+            },
+            {
+              "type": "phrase",
+              "text": "Suas funções são aplicar palestras de conteúdo complementar que guiem os membros do Exército Brasileiro na construção de suas carreiras militares,"
+            },
+            {
+              "type": "phrase",
+              "text": "englobando orientações, conselhos e até correções."
+            },
+            {
+              "type": "phrase",
+              "text": "Pelo mesmo caminho, buscam ajudá-los com eventuais dúvidas e demais questões"
+            },
+            {
+              "type": "phrase",
+              "text": "que ainda não estejam tão esclarecidas em suas mentes."
+            },
+            {
+              "type": "phrase",
+              "text": "Para ser um Supervisores, precisa ter patente mínima de Terceiro Sargento e"
+            },
+            {
+              "type": "phrase",
+              "text": "procurar um dos Oficiais responsáveis."
+            },
+            {
+              "type": "phrase",
+              "text": "Dúvidas?"
+            },
+            {
+              "type": "chapter",
+              "text": "V CAVALARIA"
+            },
+            {
+              "type": "phrase",
+              "text": "Este é o grupo destinado à graduação dos cavaleiros de nossa instituição, por"
+            },
+            {
+              "type": "phrase",
+              "text": "meio de atividades variadas de interação com cavalos e diversão entre seus"
+            },
+            {
+              "type": "phrase",
+              "text": "aprendizes."
+            },
+            {
+              "type": "phrase",
+              "text": "Em seu período de abertura serão iniciadas as inscrições, e para ser um"
+            },
+            {
+              "type": "phrase",
+              "text": "convocado para a Cavalaria, deve-se cumprir com os seguintes pré-requisitos:"
+            },
+            {
+              "type": "phrase",
+              "text": "ter patente mínima de Aluno da EsSA, possuir um cavalo e fazer parte dos três"
+            },
+            {
+              "type": "phrase",
+              "text": "meios de comunicação do exército (Team Speak, Dyscord e Uatizap)."
+            },
+            {
+              "type": "phrase",
+              "text": "Dúvidas?"
+            },
+            {
+              "type": "chapter",
+              "text": "VI COMANDOS"
+            },
+            {
+              "type": "phrase",
+              "text": "O Comandos é um grupo extremamente sigiloso, portanto, tudo que é passado"
+            },
+            {
+              "type": "phrase",
+              "text": "entre seus membros, é mantido em total confidencialidade."
+            },
+            {
+              "type": "phrase",
+              "text": "Este é o grupo da mais alta elite do Exército Brasileiro, então um"
+            },
+            {
+              "type": "phrase",
+              "text": "pré-requisito para ser um aprendiz é se destacar dentre os demais Praças."
+            },
+            {
+              "type": "phrase",
+              "text": "Além disso, o grupo não possui períodos determinados para abertura e suas"
+            },
+            {
+              "type": "phrase",
+              "text": "convocações são efetuadas por meio de inscrições."
+            },
+            {
+              "type": "phrase",
+              "text": "Dúvidas?"
+            },
+            {
+              "type": "chapter",
+              "text": "VII INFANTARIA"
+            },
+            {
+              "type": "phrase",
+              "text": "A Infantaria é um grupo de treinamentos físico, tático e médico com foco na"
+            },
+            {
+              "type": "phrase",
+              "text": "prática do que realmente é o Exército Brasileiro."
+            },
+            {
+              "type": "phrase",
+              "text": "Com foco, principalmente, na descontração dos aprendizes, é o único grupo"
+            },
+            {
+              "type": "phrase",
+              "text": "externo em que um Praça formado pode se tornar um Instrutor."
+            },
+            {
+              "type": "phrase",
+              "text": "A Infantaria não conta com períodos fixos para sua abertura, todavia, para"
+            },
+            {
+              "type": "phrase",
+              "text": "participar dos treinamentos, basta comparecer nos horários disponibilizados"
+            },
+            {
+              "type": "phrase",
+              "text": "pelos Instrutores, desde que possua patente mínima de Aluno da EsSA."
+            },
+            {
+              "type": "phrase",
+              "text": "Dúvidas?"
+            },
+            {
+              "type": "chapter",
+              "text": "VIII PARAQUEDISTAS"
+            },
+            {
+              "type": "phrase",
+              "text": "Os Paraquedistas são os membros da elite da FMB (Forças Militares Brasileiras),"
+            },
+            {
+              "type": "phrase",
+              "text": "sendo o único grupo o qual trabalha em conjunto com as duas outras instituições:"
+            },
+            {
+              "type": "phrase",
+              "text": "Marinha do Brasil e Força Aérea Brasileira."
+            },
+            {
+              "type": "phrase",
+              "text": "As convocações são feitas mediante inscrição, seu funcionamento é altamente"
+            },
+            {
+              "type": "phrase",
+              "text": "sigiloso, não possui datas fixas de abertura, além de contar com pouquíssimos"
+            },
+            {
+              "type": "phrase",
+              "text": "aprendizes de cada uma das organizações militares."
+            },
+            {
+              "type": "phrase",
+              "text": "Dúvidas?"
+            },
+            {
+              "type": "chapter",
+              "text": "IX CÃES DE GUERRA"
+            },
+            {
+              "type": "phrase",
+              "text": "Os Cães de Guerra utilizam os cães do jogo em suas dinâmicas,"
+            },
+            {
+              "type": "phrase",
+              "text": "proporcionando uma simulação mais realista do que o curso pode oferecer."
+            },
+            {
+              "type": "phrase",
+              "text": "O grupo tem como foco o desenvolvimento e o aprimoramento de habilidades"
+            },
+            {
+              "type": "phrase",
+              "text": "dos aprendizes, como o trabalho em equipe, comunicação, estratégias de"
+            },
+            {
+              "type": "phrase",
+              "text": "movimentação, visão e agilidade. Suas atividades são práticas, dinâmicas"
+            },
+            {
+              "type": "phrase",
+              "text": "e voltadas para o crescimento individual e coletivo, exigindo"
+            },
+            {
+              "type": "phrase",
+              "text": "comprometimento e disciplina. As convocações são feitas por meio"
+            },
+            {
+              "type": "phrase",
+              "text": "de inscrições, sem data definida para abertura."
+            },
+            {
+              "type": "phrase",
+              "text": "Dúvidas?"
+            }
+          ]
+        },
+        {
+          "id": "pal_em2",
+          "label": "EM2",
+          "items": [
+            {
+              "type": "chapter",
+              "text": "I INTRODUÇÃO"
+            },
+            {
+              "type": "phrase",
+              "text": "As academias são períodos dedicados à formação de Sargentos e de Oficiais do"
+            },
+            {
+              "type": "phrase",
+              "text": "Exército Brasileiro."
+            },
+            {
+              "type": "phrase",
+              "text": "A EsSA (Escola de Sargentos das Armas) é responsável pela"
+            },
+            {
+              "type": "phrase",
+              "text": "inserção de novos Sargentos no Corpo de Praças, os nossos treinadores."
+            },
+            {
+              "type": "phrase",
+              "text": "Enquanto que a EsPCEx (Escola Preparatória de Cadetes do Exército) e a AMAN"
+            },
+            {
+              "type": "phrase",
+              "text": "(Academia Militar das Agulhas Negras) são incumbidas de graduar novos Oficiais,"
+            },
+            {
+              "type": "phrase",
+              "text": "mediante convocação e aprovação."
+            },
+            {
+              "type": "phrase",
+              "text": "Dúvidas?"
+            },
+            {
+              "type": "chapter",
+              "text": "II EsSA (ESCOLA DE SARGENTOS DAS ARMAS)"
+            },
+            {
+              "type": "phrase",
+              "text": "A Escola de Sargentos das Armas é um período dedicado à formação de um 3°"
+            },
+            {
+              "type": "phrase",
+              "text": "Sargento. Para a obtenção de experiência, o aluno recebe treinamentos"
+            },
+            {
+              "type": "phrase",
+              "text": "preparatórios e auxilia treinamentos antes de assumir seu posto como treinador."
+            },
+            {
+              "type": "phrase",
+              "text": "A academia proporciona, bem como, a realização de uma prova externa a qual"
+            },
+            {
+              "type": "phrase",
+              "text": "possibilita a entrada de pessoas na instituição a partir de uma patente mais"
+            },
+            {
+              "type": "phrase",
+              "text": "elevada, poupando o seu alistamento."
+            },
+            {
+              "type": "phrase",
+              "text": "Dúvidas?"
+            },
+            {
+              "type": "chapter",
+              "text": "III EsPCEx (ESCOLA PREPARATÓRIA DE CADETES)"
+            },
+            {
+              "type": "phrase",
+              "text": "A Escola Preparatória de Cadetes é um período composto por três etapas, as quais"
+            },
+            {
+              "type": "phrase",
+              "text": "determinam a aprovação ou a reprovação de um Aluno, sendo elas: aulas,"
+            },
+            {
+              "type": "phrase",
+              "text": "atividades e prova. Caso aprovado, o Aluno assumirá a patente de Cadete, caso"
+            },
+            {
+              "type": "phrase",
+              "text": "reprovado, será rebaixado à patente de 3° Sargento."
+            },
+            {
+              "type": "phrase",
+              "text": "Dúvidas?"
+            },
+            {
+              "type": "chapter",
+              "text": "IV AMAN (ACADEMIA MILITAR DAS AGULHAS NEGRAS)"
+            },
+            {
+              "type": "phrase",
+              "text": "A Academia Militar das Agulhas Negras é um período composto pelas mesmas etapas"
+            },
+            {
+              "type": "phrase",
+              "text": "da EsPCEx, as quais determinarão a aprovação ou a reprovação de um Cadete, sendo"
+            },
+            {
+              "type": "phrase",
+              "text": "elas: aulas, atividades e prova. Caso aprovado, o Cadete assumirá o posto de"
+            },
+            {
+              "type": "phrase",
+              "text": "Aspirante-a-Oficial, sendo assim, introduzido no Corpo de Oficiais para um"
+            },
+            {
+              "type": "phrase",
+              "text": "período de observação. Caso reprovado, será rebaixado à patente de 2° Sargento."
+            },
+            {
+              "type": "phrase",
+              "text": "Dúvidas?"
+            }
+          ]
+        },
+        {
+          "id": "pal_mfp",
+          "label": "MFP",
+          "items": [
+            {
+              "type": "chapter",
+              "text": "I INTRODUÇÃO"
+            },
+            {
+              "type": "phrase",
+              "text": "O Módulo de Fidelização dos Praças (MFP) foi criado visando orientar"
+            },
+            {
+              "type": "phrase",
+              "text": "vocês Praças sobre a importância de um bom tratamento para com os novos"
+            },
+            {
+              "type": "phrase",
+              "text": "integrantes do Exército Brasileiro, afinal, o tratamento com os novatos é"
+            },
+            {
+              "type": "phrase",
+              "text": "essencial para a fidelização do mesmo."
+            },
+            {
+              "type": "phrase",
+              "text": "Para explorar a fundo este conceito, iremos abordar alguns assuntos pertinentes a esta"
+            },
+            {
+              "type": "phrase",
+              "text": "temática."
+            },
+            {
+              "type": "chapter",
+              "text": "II TRATAMENTO E COMPORTAMENTO ADEQUADOS"
+            },
+            {
+              "type": "phrase",
+              "text": "É possível afirmar que, a cada patente que alcançamos, nosso poder de"
+            },
+            {
+              "type": "phrase",
+              "text": "influência e nosso impacto nas ações do Exército aumentam."
+            },
+            {
+              "type": "phrase",
+              "text": "Com isso, torna-se necessário aprimorar os nossos próprios métodos para atender"
+            },
+            {
+              "type": "phrase",
+              "text": "bem às demandas diárias do Quartel General. Da mesma forma que a boa recepção"
+            },
+            {
+              "type": "phrase",
+              "text": "causa bons julgamentos, se nosso tratamento for ruim, a impressão daquele"
+            },
+            {
+              "type": "phrase",
+              "text": "visitante ou do novo Praça certamente será mais negativa do que positiva,"
+            },
+            {
+              "type": "phrase",
+              "text": "e isso interfere diretamente nos nossos objetivos coletivos."
+            },
+            {
+              "type": "phrase",
+              "text": "Vamos pensar que o nosso Exército pode ser tratado como uma empresa,"
+            },
+            {
+              "type": "phrase",
+              "text": "onde temos os funcionários e os clientes."
+            },
+            {
+              "type": "phrase",
+              "text": "De forma resumida, podemos dizer que nossos Oficiais e Praças são os"
+            },
+            {
+              "type": "phrase",
+              "text": "funcionários e os civis/visitantes são os clientes."
+            },
+            {
+              "type": "phrase",
+              "text": "Já que o Quartel General é o nosso local de trabalho e queremos atrair o"
+            },
+            {
+              "type": "phrase",
+              "text": "interesse deles, devemos ser receptivos, educados, respeitosos, gentis e"
+            },
+            {
+              "type": "phrase",
+              "text": "falar sobre os pontos positivos de fazer parte da nossa equipe."
+            },
+            {
+              "type": "phrase",
+              "text": "Além dos pagamentos 4x ao dia, podemos falar do nosso ambiente amigável e"
+            },
+            {
+              "type": "phrase",
+              "text": "familiar, de ser um dos melhores passatempos no jogo, sobre ir aprendendo mais"
+            },
+            {
+              "type": "phrase",
+              "text": "sobre o game enquanto recebe novas funções dentro do Exército, entre outras"
+            },
+            {
+              "type": "phrase",
+              "text": "formas."
+            },
+            {
+              "type": "phrase",
+              "text": "Abordagens originais e criativas podem chamar ainda mais a atenção deles."
+            },
+            {
+              "type": "phrase",
+              "text": "Dúvidas?"
+            },
+            {
+              "type": "chapter",
+              "text": "III ALTRUÍSMO"
+            },
+            {
+              "type": "phrase",
+              "text": "O altruísmo é a tendência natural do ser humano de se preocupar com"
+            },
+            {
+              "type": "phrase",
+              "text": "o outro e buscar ajudá-lo com suas eventuais dificuldades, que podem ser"
+            },
+            {
+              "type": "phrase",
+              "text": "momentâneas ou não."
+            },
+            {
+              "type": "phrase",
+              "text": "Essa é uma característica presente nos melhores Praças do Exército e que molda"
+            },
+            {
+              "type": "phrase",
+              "text": "os futuros melhores Oficiais, pois reflete muito sobre a humildade e a empatia"
+            },
+            {
+              "type": "phrase",
+              "text": "que aquela pessoa consegue demonstrar enquanto militar."
+            },
+            {
+              "type": "phrase",
+              "text": "Ser este indivíduo para alguém pode ser o diferencial para que ele encontre"
+            },
+            {
+              "type": "phrase",
+              "text": "suporte, conforto e confiança para se manter no Exército."
+            },
+            {
+              "type": "phrase",
+              "text": "Muitas vezes, militares com essa característica saem da própria zona de"
+            },
+            {
+              "type": "phrase",
+              "text": "conforto para ajudar algum companheiro - em alguns casos, até se arriscam para"
+            },
+            {
+              "type": "phrase",
+              "text": "salvá-los."
+            },
+            {
+              "type": "phrase",
+              "text": "Pessoas altruístas são sempre bem vistas e, normalmente, são mais requisitadas"
+            },
+            {
+              "type": "phrase",
+              "text": "do que as demais. Isso significa que essas pessoas demonstram aos superiores"
+            },
+            {
+              "type": "phrase",
+              "text": "que realizam um trabalho mais completo e produtivo."
+            },
+            {
+              "type": "phrase",
+              "text": "Da mesma forma, aos seus subordinados, apresentam as características de serem"
+            },
+            {
+              "type": "phrase",
+              "text": "confiáveis e auxiliares, o que é muito importante no dia a dia em qualquer"
+            },
+            {
+              "type": "phrase",
+              "text": "lugar ou atividade que envolva diversas pessoas."
+            },
+            {
+              "type": "phrase",
+              "text": "Afinal, quem não gosta de ter aquele amigo que pode te salvar quando você estiver"
+            },
+            {
+              "type": "phrase",
+              "text": "precisando de uma ajudinha, né?!"
+            },
+            {
+              "type": "phrase",
+              "text": "Dúvidas?"
+            },
+            {
+              "type": "chapter",
+              "text": "IV RETENÇÃO DE NOVOS INTEGRANTES"
+            },
+            {
+              "type": "phrase",
+              "text": "Todos os conceitos trabalhados até aqui, quando aplicados corretamente no dia"
+            },
+            {
+              "type": "phrase",
+              "text": "a dia de trabalho, ajudam o Exército a alcançar uma de suas finalidades:"
+            },
+            {
+              "type": "phrase",
+              "text": "a retenção dos novos integrantes."
+            },
+            {
+              "type": "phrase",
+              "text": "O que isso significa? Quer dizer que estamos ajudando o Exército a manter"
+            },
+            {
+              "type": "phrase",
+              "text": "aquelas pessoas que chegaram há pouco tempo, seja a curto ou a longo prazo."
+            },
+            {
+              "type": "phrase",
+              "text": "Considerando que o Quartel General abre todos os dias e não pretende diminuir"
+            },
+            {
+              "type": "phrase",
+              "text": "isso, devemos priorizar aquilo que é bom a longo prazo, ou seja, aquilo que"
+            },
+            {
+              "type": "phrase",
+              "text": "pode trazer retorno por mais tempo, ainda que demore um pouco para que isso"
+            },
+            {
+              "type": "phrase",
+              "text": "comece a acontecer. Por exemplo: aplicar treinos, palestras e fidelizar um novo"
+            },
+            {
+              "type": "phrase",
+              "text": "Praça pode fazer com que ele, em alguns dias, se torne um Sargento, podendo"
+            },
+            {
+              "type": "phrase",
+              "text": "instruir e formar novos Soldados que poderão repetir este mesmo ciclo"
+            },
+            {
+              "type": "phrase",
+              "text": "posteriormente, fazendo a válvula girar e o Exército funcionar de forma"
+            },
+            {
+              "type": "phrase",
+              "text": "autossustentável."
+            },
+            {
+              "type": "phrase",
+              "text": "Sabe-se que nem sempre isso é possível, porém ainda assim a ajuda daquele Praça"
+            },
+            {
+              "type": "phrase",
+              "text": "pode ser útil caso ele não permaneça na instituição até que se torne Sargento."
+            },
+            {
+              "type": "phrase",
+              "text": "Para isso, alguns exemplos de retorno a curto prazo são: o alistamento de"
+            },
+            {
+              "type": "phrase",
+              "text": "visitantes no QG por parte de um Soldado bem instruído; um bom recrutamento externo"
+            },
+            {
+              "type": "phrase",
+              "text": "realizado por um Cabo; e um auxílio de treinamento por parte de um"
+            },
+            {
+              "type": "phrase",
+              "text": "Aluno da EsSA."
+            },
+            {
+              "type": "phrase",
+              "text": "Todos esses exemplos configuram algum tipo de contribuição para o Exército"
+            },
+            {
+              "type": "phrase",
+              "text": "e envolvem ações básicas que todas as patentes podem exercer."
+            },
+            {
+              "type": "phrase",
+              "text": "Como superiores hierarquicamente, independente de sermos Oficiais, podemos"
+            },
+            {
+              "type": "phrase",
+              "text": "ajudar os mais novos com dicas, orientações e retirando dúvidas para"
+            },
+            {
+              "type": "phrase",
+              "text": "aperfeiçoar as habilidades daquela pessoa."
+            },
+            {
+              "type": "phrase",
+              "text": "Quando isso é feito com altruísmo, respeito, paciência, empatia e seriedade,"
+            },
+            {
+              "type": "phrase",
+              "text": "as chances de bons frutos individuais e coletivos serem gerados são bem"
+            },
+            {
+              "type": "phrase",
+              "text": "maiores, pois colaboramos para a integração daqueles novos membros e"
+            },
+            {
+              "type": "phrase",
+              "text": "despertamos neles a vontade de alcançar novos patamares."
+            },
+            {
+              "type": "phrase",
+              "text": "Dúvidas?"
+            }
+          ]
         }
-    ]
+      ]
+    }
+  ]
 }
