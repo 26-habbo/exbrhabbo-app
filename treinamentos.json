@@ -92,7 +92,7 @@
             },
             {
               "type": "note",
-              "text": "Se não sabe, ensine-o. Pergunte a forma de acesso — Celular ou computador?"
+              "text": "Se não sabe, ensine-o. Pergunte a forma de acesso — mobile ou computador?"
             },
             {
               "type": "phrase",
@@ -268,15 +268,19 @@
             },
             {
               "type": "phrase",
-              "text": "Sempre que precisar se ausentar, dirija-se ao H-ummer do exército, que encontra-se"
+              "text": "Sempre que precisar se ausentar, dirija-se ao H-ummer do exército, que se encontra"
             },
             {
               "type": "phrase",
-              "text": "do lado direito do Quartel, próximo ao Barril de Cevada."
+              "text": "no piso inferior do Quartel."
             },
             {
               "type": "phrase",
-              "text": "Para se sentar, basta usar o mobi \"Ticket BattleBall clássico\" ao lado esquerdo do H-ummer."
+              "text": "Para chegar até lá basta descer as escadas e se direcionar ao AFK."
+            },
+            {
+              "type": "phrase",
+              "text": "Para se sentar, basta usar o mobi \"Ticket BattleBall clássico\" em frente ao H-ummer."
             },
             {
               "type": "phrase",
@@ -331,6 +335,10 @@
               "text": "Dúvidas?"
             },
             {
+              "type": "note",
+              "text": "ATENÇÃO: a partir das REGRAS o Recruta está automaticamente aprovado no Básico I, atente-se."
+            },
+            {
               "type": "chapter",
               "text": "VII - Finalização"
             },
@@ -364,7 +372,11 @@
             },
             {
               "type": "note",
-              "text": "Caso o Soldado tenha acessórios ou grupos de outras instituições militares, peça para remover."
+              "text": "ATENÇÃO: o relatório de treinamento deve ser enviado obrigatoriamente ANTES de liberar o treinado para retornar ao Quartel-General, caso esteja com auxiliar, oriente o mesmo antes de concluir o treinamento."
+            },
+            {
+              "type": "note",
+              "text": "Caso o Soldado tenha algum acessório ou grupos de outras instituições militares, peça para remover."
             },
             {
               "type": "note",
@@ -372,15 +384,19 @@
             },
             {
               "type": "note",
-              "text": "Perfil privado — Celular: engrenagens (canto inf. dir.) → Configurações > Privacidade → TODOS podem ver. Computador: seta branca (canto sup. dir.) → Configurações → Privacidade → TODO MUNDO pode ver."
+              "text": "Caso o perfil do Soldado esteja privado, auxilie-o a destrancá-lo:"
             },
             {
               "type": "note",
-              "text": "Perfil privado — Computador: seta branca (canto sup. dir.) → Configurações → Privacidade → TODO MUNDO pode ver."
+              "text": "Pelo mobile, essa opção se encontra no canto inferior direito, onde há as engrenagens — em “Configurações > Privacidade”, ele deve selecionar que TODOS podem ver o perfil."
             },
             {
               "type": "note",
-              "text": "Certifique-se que o Soldado está com fardamento, perfil, missão e grupo corretos antes de finalizar."
+              "text": "Para quem joga pelo computador, na página inicial, procure pela seta branca no canto superior direito, clique em “Configurações” e “Privacidade”, também precisam marcar a opção que TODO MUNDO pode ver o perfil."
+            },
+            {
+              "type": "note",
+              "text": "Certifique-se que o Soldado está com o fardamento correto e completo, perfil, missão e grupo de acordo antes de finalizar o treinamento."
             }
           ]
         },
@@ -458,11 +474,11 @@
             },
             {
               "type": "phrase",
-              "text": "O CI são os tapetes brancos e vermelhos à esquerda do Quartel-General."
+              "text": "O CI são os tapetes brancos e pretos à esquerda do Quartel-General."
             },
             {
               "type": "phrase",
-              "text": "Os treinadores utilizam os tapetes brancos e os treinados utilizam os tapetes vermelhos."
+              "text": "Os treinadores utilizam os tapetes pretos e os treinados utilizam os tapetes brancos."
             },
             {
               "type": "phrase",
@@ -474,7 +490,7 @@
             },
             {
               "type": "phrase",
-              "text": "As mesas do lado direito do CI são chamadas de HelpDesk e são utilizadas para ações dos Grupos Externos."
+              "text": "As mesas presentes no Quartel-General são de uso dos Oficiais e dos Grupos Externos."
             },
             {
               "type": "phrase",
@@ -558,7 +574,7 @@
             },
             {
               "type": "note",
-              "text": "Fique sobre a porta que faz referência à ADO na Sala de Treino do T2, diga \"Sentido\" e continue o teste prático."
+              "text": "Faça a utilização dos comandos na Sala de Treino do T2: Fique sobre a porta que faz referência à ADO, em seguida, diga \"Sentido\" e continue o teste prático."
             },
             {
               "type": "chapter",
@@ -579,6 +595,10 @@
             {
               "type": "note",
               "text": "Confira se o Praça alterou a missão antes de liberá-lo."
+            },
+            {
+              "type": "note",
+              "text": "ATENÇÃO: o relatório de treinamento deve ser enviado obrigatoriamente ANTES de liberar o treinado para retornar ao Quartel-General, caso esteja com auxiliar, oriente o mesmo antes de concluir o treinamento."
             }
           ]
         },
@@ -688,11 +708,11 @@
             },
             {
               "type": "phrase",
-              "text": "fardamentos dos Praças e corrigir possíveis irregularidades."
+              "text": "fardamentos dos Praças e Patrocinadores, corrigindo possíveis irregularidades."
             },
             {
               "type": "phrase",
-              "text": "O PDV está localizado ao lado esquerdo dos Guarda-Portões (GP), próximo as escadas."
+              "text": "O PDV está localizado ao lado direito dos Guarda-Portões (GP)."
             },
             {
               "type": "phrase",
@@ -708,7 +728,31 @@
             },
             {
               "type": "phrase",
-              "text": "Os comandos do PDV são:"
+              "text": "Ao assumir o PDV, deverá realizar a liberação de dois Monolitos Negros."
+            },
+            {
+              "type": "phrase",
+              "text": "O Monolito Negro da direita corresponde à entrada dos Soldados e Patrocinadores."
+            },
+            {
+              "type": "phrase",
+              "text": "O comando para liberar é: :abrir"
+            },
+            {
+              "type": "phrase",
+              "text": "O Monolito Negro da esquerda corresponde à última etapa de liberação para a entrada no Quartel-General."
+            },
+            {
+              "type": "phrase",
+              "text": "Antes de liberar alguém, deverão ser verificados o registro no site,"
+            },
+            {
+              "type": "phrase",
+              "text": "a missão, o perfil aberto, o status, grupo favoritado e fardamento."
+            },
+            {
+              "type": "phrase",
+              "text": "Os comandos do PDV no roller são:"
             },
             {
               "type": "phrase",
@@ -725,14 +769,6 @@
             {
               "type": "phrase",
               "text": ":vestir - coloca o fardamento no Praça."
-            },
-            {
-              "type": "phrase",
-              "text": "Antes de liberar alguém, você precisa se certificar de que a missão,"
-            },
-            {
-              "type": "phrase",
-              "text": "status, grupo favoritado e fardamento estão corretos, conforme o site, e o perfil habilitado."
             },
             {
               "type": "phrase",
@@ -973,6 +1009,10 @@
             {
               "type": "note",
               "text": "Confira se o Praça adicionou a sigla antes de liberá-lo."
+            },
+            {
+              "type": "note",
+              "text": "ATENÇÃO: o relatório de treinamento deve ser enviado obrigatoriamente ANTES de liberar o treinado para retornar ao Quartel-General, caso esteja com auxiliar, oriente o mesmo antes de concluir o treinamento."
             }
           ]
         },
@@ -1034,15 +1074,11 @@
             },
             {
               "type": "phrase",
-              "text": "para manifestar seu interesse em auxiliar o treinamento."
+              "text": "passando pelo portão de permissão para manifestar seu interesse em auxiliar o treinamento."
             },
             {
               "type": "phrase",
-              "text": "Um Oficial abrirá a porta para que você e o treinador possam adentrá-la."
-            },
-            {
-              "type": "phrase",
-              "text": "Enquanto você e o recruta aguardam, você pode conversar com o recruta."
+              "text": "Enquanto você e o recruta aguardam, você pode conversar com o recruta"
             },
             {
               "type": "phrase",
@@ -1050,7 +1086,7 @@
             },
             {
               "type": "phrase",
-              "text": "Quando o treinamento for enviado, auxilie o treinador a conduzir"
+              "text": "Quando o treinamento for enviado para a Sala Negra, auxilie o treinador a conduzir"
             },
             {
               "type": "phrase",
