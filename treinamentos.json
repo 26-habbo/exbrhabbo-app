@@ -1327,6 +1327,10 @@
             {
               "type": "note",
               "text": "Confira se o Praça alterou a sigla antes de liberá-lo."
+            },
+            {
+              "type": "note",
+              "text": "ATENÇÃO: o relatório de treinamento deve ser enviado obrigatoriamente ANTES de liberar o treinado para retornar ao Quartel-General."
             }
           ]
         }
