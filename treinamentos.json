@@ -566,6 +566,10 @@
             },
             {
               "type": "phrase",
+              "text": "4. Agradecimentos e justificativas devem ser realizadas somente após o final do comando."
+            },
+            {
+              "type": "phrase",
               "text": "Dúvidas sobre como se apresentar?"
             },
             {
